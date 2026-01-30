@@ -78,7 +78,9 @@ Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
 
 ## June
-
+International Conference on Cloud Computing and GIS Solutions, organized by IIRD, held at Kampala, Uganda on 02 June 2026.
+- [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026.
+      Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
 
 ## July
 
