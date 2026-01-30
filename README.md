@@ -59,11 +59,8 @@ Register here: ( https://www.meetup.com/pykampala/events/313092443/?slug=pykampa
 Whether you are a React pro, a UI designer, or a newbie looking to make your first Open Source contribution, this is the event for you. It will be held on Saturday 7th February 2026 from 2-6pm (EAT) at Africa's Talking, Acacia Place.
 
 - [ ] Notion 101: Getting Organized as a Student is a beginner-friendly, hands-on workshop designed for students who want to better organize their academics, tasks, and projects using Notion. During this session, participants will learn the fundamentals of Notion, pages, blocks, databases, and templates, and be guided step-by-step to build a simple student dashboard they can continue using after the event.
-
-No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop.
-
-This will be held at Makerere University, Conference Room, CoCIS Block A Level 4 on Friday 27th February 2026 at 10 AM EAT
-
+No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop. This will be held at Makerere University, Conference Room, CoCIS Block A Level 4 on Friday 27th February 2026 at 10 AM EAT.
+![notion 101 at MUK](https://github.com/user-attachments/assets/5436b0d9-8768-4458-838b-424b3fe46301)
 
 ## March
 - [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Learn more:(https://indabaxug.com/indabax2026/)
