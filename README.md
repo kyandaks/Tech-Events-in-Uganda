@@ -80,6 +80,7 @@ Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 ## June
 
 - [ ] International Conference on Cloud Computing and GIS Solutions, organized by IIRD, held in Kampala, Uganda on Tuesday 2nd June, 2026. Learn more: ([https://globalai.community/chapters/kampala/events/agentcon-kampala/](https://iirdglobal.com/events/index.php?id=100646401))
+- [ ] The International Conference on Inclusive Finance and FinTech for Development, organized by ISIT, held on Saturday 27th to Sunday 28th June, 2026 in Gulu, Uganda. Learn more: ( https://isit.org.in/event/index.php?id=100652739)
 
 ## July
 
