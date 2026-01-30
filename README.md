@@ -83,10 +83,10 @@ Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 - [ ] The International Conference on Inclusive Finance and FinTech for Development, organized by ISIT, held on Saturday 27th to Sunday 28th June, 2026 in Gulu, Uganda. Learn more: ( https://isit.org.in/event/index.php?id=100652739)
 
 ## July
-- [ ] The International Conference on Machine Learning and Big Data Applications for IT Growth, organized by Research Foundation, scheduled to take place on Monday 20th July 2026 in Kampala, Uganda. Learn more: ( https://isit.org.in/event/index.php?id=100652739)
+- [ ] The International Conference on Machine Learning and Big Data Applications for IT Growth, organized by Research Foundation, scheduled to take place on Monday 20th July 2026 in Kampala, Uganda. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
 - [ ] 
 ## August
-
+- [ ] The International Conference on Digital Transformation in Information Technology, organized by ISIT, will be held on Monday 10th August 2026 in Entebbe, Uganda. Learn more: (https://isit.org.in/event/index.php?id=100753003)
 
 ## September
 
