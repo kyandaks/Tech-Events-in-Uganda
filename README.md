@@ -30,13 +30,15 @@ If you find this directory helpful, please consider giving it a star and feel fr
 
 - [ ] Free 3-Day Maya Animation Introduction (Online) Hands-on andbeginner-friendly sessions designed to help you get started with Maya Animation. Join the class via: ([https://meet.google.com/ket-nxgh-wmi?authuser=2](https://meet.google.com/ket-nxgh-wmi?authuser=2)) Monday 5th, Tuesday 6th & Wednesday 7th January 2026. Time: 12:00 PM – 1:00 PM (EAT).
 ![animation training](https://github.com/user-attachments/assets/0a4b3215-fbd1-4ed3-bcc3-5c1498534be6)
+
 - [ ] ICT and Records Management Bootcamp at the Kabale Regional Innovation Hub. Registration deadline: 12th January 2026. Click the link to register:
 (https://docs.google.com/forms/d/e/1FAIpQLSdRCevzvNa3_XPzRuqd6ywp4Uiqj8VZJU1qJK-r-NTQHvBbPA/viewform?vc=0&c=0&w=1&flr=0&pli=1) The bootcamp will run from Monday 19th to 30th January 2026.
 ![WhatsApp Image 2026-01-07 at 4 11 20 PM](https://github.com/user-attachments/assets/28bad1e8-46ad-441e-a735-f790a0381856)
 
 - [ ] AWS Cloud Club Meetup. Registration deadline: 12th January 2026. Click the link to register:
 (https://www.meetup.com/aws-cloud-club-at-makerere-university/)The session will be held on Tuesday 13th January 2026.
-![WhatsApp Image 2026-01-09 at 4 38 54 PM](https://github.com/user-attachments/assets/c18a3d24-3ded-488e-b548-51fbb0d82dc4)
+![WhatsApp Image 2026-01-09 at 4 38 54 PM]
+(https://github.com/user-attachments/assets/c18a3d24-3ded-488e-b548-51fbb0d82dc4)
 
 - [ ] Girls 4 Girls - Call for Applications. Click the link to register:
 (https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA).
