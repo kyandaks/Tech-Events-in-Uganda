@@ -55,7 +55,7 @@ Register here: ( https://www.meetup.com/pykampala/events/313092443/?slug=pykampa
 ## February
 - [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more: (https://researchleagues.com/event/index.php?id=100071993)
       
-- [ ] Build Games Uganda 
+- [ ] Build Games is coming to Uganda. ​Join builders, game developers, designers, and Web3 enthusiasts for an immersive session focused on turning ideas into real, playable products. Whether you’re just getting started or already building, this event is designed to help you move faster from concept to execution. This will be held on
       
  - [ ] JavaScript Kampala meetup. This will be the first 2026 meetup and it isn't just about listening. it's about building. We are dedicating this session to revamping the official JavaScript Community Uganda website, and *we need your skills.
 ![JS Kamapala Meetup](https://github.com/user-attachments/assets/bd207f08-832b-4058-aa5c-fefdb7023052)
