@@ -78,7 +78,7 @@ No prior experience with Notion is required. Attendees are encouraged to come wi
 Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 ![wordcamp mukono](https://github.com/user-attachments/assets/e9095134-a725-4ee5-99cc-60ae38641662)
 - [ ] GitHub Copilot Dev Days - UG Edition will take place on Saturday, 21st March 2026 in the Conference Room, Level 4, Block A — CoCIS, Makerere University, Uganda. This will run from 10:00 AM – 1:00 PM (EAT). Learn more: ( https://luma.com/9764q8w9)
-
+![ugvibecoders](https://github.com/user-attachments/assets/f682f4a7-ee03-403e-bad5-d2acfd5b8e15)
 
  
 
