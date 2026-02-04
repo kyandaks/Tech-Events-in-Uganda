@@ -77,7 +77,10 @@ No prior experience with Notion is required. Attendees are encouraged to come wi
 - [ ] Word Camp Mukono will take place from Friday 13th March to Saturday 14th March, 2026 at Murs Country Resort, Kigunga
 Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 ![wordcamp mukono](https://github.com/user-attachments/assets/e9095134-a725-4ee5-99cc-60ae38641662)
-
+- [ ] Word Camp Mukono will take place from Friday 13th March to Saturday 14th March, 2026 at Murs Country Resort, Kigunga
+Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
+![wordcamp mukono](https://github.com/user-attachments/assets/e9095134-a725-4ee5-99cc-60ae38641662)
+ 
 
 ## April
 
