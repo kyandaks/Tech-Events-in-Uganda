@@ -56,6 +56,13 @@ This month, we’re diving into the cutting-edge features of Django 6.0, specifi
 <img width="1587" height="2245" alt="JAN 1 MEETUP" src="https://github.com/user-attachments/assets/35c3408b-e2b5-4928-9002-452e0ecb6491" />
 
 ## February
+- [ ] 🚀 Build with Google AI Studio
+Join GDG on Campus Makerere for a hands-on AI session using Google AI Studio, plus free Cloud credits to help you build!
+📅 Saturday, 7th Feb
+⏰ 6:00 PM
+![Register here](https://tinyurl.com/buildwithAIStudio)
+![event](https://github.com/user-attachments/assets/a950513e-ee92-4744-8b31-0921384b217b)
+
 - [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more: (https://researchleagues.com/event/index.php?id=100071993)
       
 - [ ] Build Games is coming to Uganda. ​Join builders, game developers, designers, and Web3 enthusiasts for an immersive session focused on turning ideas into real, playable products. Whether you’re just getting started or already building, this event is designed to help you move faster from concept to execution. This will be held on Saturday 7th February 2026 at Makerere Univeristy from 12pm to 5pm EAT.
