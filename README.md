@@ -87,6 +87,10 @@ Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 - [ ] GitHub Copilot Dev Days - UG Edition will take place on Saturday, 21st March 2026 in the Conference Room, Level 4, Block A — CoCIS, Makerere University, Uganda. This will run from 10:00 AM – 1:00 PM (EAT). Learn more: ( https://luma.com/9764q8w9)
 ![ugvibecoders](https://github.com/user-attachments/assets/f682f4a7-ee03-403e-bad5-d2acfd5b8e15)
 
+- [ ] The AWS Stuident Community Day will take place on Saturday, 7th  March 2026 in the Conference Room, Level 4, Block A — CoCIS, Makerere University, Uganda. This will run from 10:00 AM – 1:00 PM (EAT). Learn more: ( https://luma.com/9764q8w9)
+
+![WhatsApp Image 2026-02-04 at 10 40 59 PM](https://github.com/user-attachments/assets/b763d4b1-b8d2-47c1-868c-9478b3a1b84d)
+
  
 
 ## April
