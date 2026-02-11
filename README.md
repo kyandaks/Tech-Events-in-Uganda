@@ -76,6 +76,7 @@ Whether you are a React pro, a UI designer, or a newbie looking to make your fir
 - [ ] Notion 101: Getting Organized as a Student is a beginner-friendly, hands-on workshop designed for students who want to better organize their academics, tasks, and projects using Notion. During this session, participants will learn the fundamentals of Notion, pages, blocks, databases, and templates, and be guided step-by-step to build a simple student dashboard they can continue using after the event.
 No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop. This will be held at Makerere University, Conference Room, CoCIS Block A Level 4 on Friday 27th February 2026 at 10 AM EAT.
 
+
 - [ ] The PyLadies Kampala meetup is back in action. Kick off 2026 with us as we dive into "Python Web Fundamentals with Asio Brenda. This will be held at Africa's Talking - Acacia Avenue on Saturday 14th February 2026 at 09 AM EAT.
 Register here: https://tinyurl.com/pyladies-meetup
 ![PYLADIES FEB](https://github.com/user-attachments/assets/c9422f35-1e7b-4f2f-8d11-0441f29d1dce)
