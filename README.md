@@ -84,6 +84,10 @@ No prior experience with Notion is required. Attendees are encouraged to come wi
 Register here: https://tinyurl.com/pyladies-meetup
 ![PYLADIES FEB](https://github.com/user-attachments/assets/c9422f35-1e7b-4f2f-8d11-0441f29d1dce)
 
+- [ ] Kampala DevOps Community kickstarts the year with its first webinar. In this Microsoft Teams webinar, we shall be diving into Linux fundamentals and bash scripting. Our featured guest speaker is Kazooba Lawrence. This session will be happening on Monday 16th February 2026 (Archbishop Janani Luwum Day) starting at 10AM.
+Register here: https://www.kampaladevops.org/events
+<img width="1080" height="1080" alt="KDC-Webinar-1-2026" src="https://github.com/user-attachments/assets/bb06d96f-be94-426c-8f9d-11adffba80c8" />
+
 
 ## March
 - [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Learn more:(https://indabaxug.com/indabax2026/)
