@@ -98,9 +98,8 @@ Join us for an exclusive session with Harrison Ogunye, CISA, an experienced cybe
 </br>
 Whether you're an aspiring security researcher, developer, or cybersecurity enthusiast, this session is for you.
 Stay tuned for registration details — we look forward to seeing you there!
-hashtag#CyberSecurity hashtag#BugBounty hashtag#Webinar hashtag#InfoSec hashtag#TechEvents
-![poster-image](https://media.licdn.com/dms/image/v2/D4D22AQGh7Y0-VS-3yg/feedshare-shrink_2048_1536/B4DZxqUIh6GQAk-/0/1771310188901?e=1773273600&v=beta&t=2gIpAYOG16HVejwNMhsPurbYSdUahEvB1I6VrEGLLUU)
-
+hashtag#CyberSecurity hashtag#BugBounty hashtag#Webinar hashtag#InfoSec hashtag#TechEvents</br>
+<img width="720" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b0a415a-040d-4989-8e62-61eeb9b0065b" />
 
 ## March
 - [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Learn more:(https://indabaxug.com/indabax2026/)
