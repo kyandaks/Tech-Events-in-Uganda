@@ -104,8 +104,13 @@ Learn more: (https://luma.com/9764q8w9)
 ![WhatsApp Image 2026-02-04 at 10 40 59 PM](https://github.com/user-attachments/assets/4e591cc4-6358-4069-96ab-d303912e4fe8)
 
 - [ ] The PyKla Meetup this month willbe about Writing Effective Documentation for Python's DevGuide with Sphinx and reStructuredText. This will run from 02:00 pM (EAT).
-Learn more: 
+Learn more: ()
 <img width="1587" height="2245" alt="MARCH MEETUP" src="https://github.com/user-attachments/assets/aeef2ad8-1d7a-4726-a570-5bd9b93c1a6c" />
+
+- [ ] Build with AI: Building with Google Antigravity. This will run from 08:00 pM (EAT).
+Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-build-with-ai-building-with-google-antigravity/)
+![WhatsApp Image 2026-03-01 at 8 52 28 PM](https://github.com/user-attachments/assets/405b4770-a6cd-46a5-a336-aa738f0922cd)
+
 
 ## April
 
