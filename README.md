@@ -119,7 +119,7 @@ Learn more: (https://luma.com/9764q8w9)
 Learn more: ()
 <img width="1587" height="2245" alt="MARCH MEETUP" src="https://github.com/user-attachments/assets/aeef2ad8-1d7a-4726-a570-5bd9b93c1a6c" />
 
-- [ ] Build with AI: Building with Google Antigravity. This will run from 08:00 pM (EAT).
+- [ ] Build with AI: Building with Google Antigravity. This will run from 08:00 PM (EAT).
 Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-build-with-ai-building-with-google-antigravity/)
 ![WhatsApp Image 2026-03-01 at 8 52 28 PM](https://github.com/user-attachments/assets/405b4770-a6cd-46a5-a336-aa738f0922cd)
 
