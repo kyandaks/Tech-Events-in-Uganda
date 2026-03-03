@@ -124,9 +124,9 @@ Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-maker
 ![WhatsApp Image 2026-03-01 at 8 52 28 PM](https://github.com/user-attachments/assets/405b4770-a6cd-46a5-a336-aa738f0922cd)
 
 - [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 pM (EAT).
-Learn more: ()
+Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 ![WhatsApp Image 2026-03-01 at 8 52 28 PM](https://github.com/user-attachments/assets/405b4770-a6cd-46a5-a336-aa738f0922cd)
-https://tinyurl.com/bwai-multi-agent-systems
+
 
 ## April
 
