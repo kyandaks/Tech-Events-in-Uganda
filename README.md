@@ -127,7 +127,10 @@ Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-maker
 Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 ![BWAI](https://github.com/user-attachments/assets/8f2f5bc8-57d9-4487-b962-d9d4acc159a4)
 
-
+- [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 pM (EAT).
+Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
+![BWAI](https://github.com/user-attachments/assets/8f2f5bc8-57d9-4487-b962-d9d4acc159a4)
+https://luma.com/jbo0dwas
 
 ## April
 
