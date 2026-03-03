@@ -127,9 +127,9 @@ Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-maker
 Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 ![BWAI](https://github.com/user-attachments/assets/8f2f5bc8-57d9-4487-b962-d9d4acc159a4)
 
-- [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 pM (EAT).
+- [ ] Filecoin Orbit Kampala:Introducing Filecoin Onchain Cloud.  This will run from 10:00 AM (EAT).
 Learn more: (https://luma.com/jbo0dwas)
-![BWAI](https://github.com/user-attachments/assets/8f2f5bc8-57d9-4487-b962-d9d4acc159a4)
+
 
 
 ## April
