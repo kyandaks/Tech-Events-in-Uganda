@@ -130,7 +130,7 @@ Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 - [ ] Filecoin Orbit Kampala:Introducing Filecoin Onchain Cloud.  This will run from 10:00 AM (EAT).
 Learn more: (https://luma.com/jbo0dwas)
 
-- [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 pM (EAT).
+- [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 PM (EAT).
 Learn more: (https://tinyurl.com/bwai-multi-agent-systems](https://tinyurl.com/bwai-ai-in-web3)
 
 
