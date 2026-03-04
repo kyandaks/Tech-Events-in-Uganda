@@ -41,7 +41,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 (https://github.com/user-attachments/assets/c18a3d24-3ded-488e-b548-51fbb0d82dc4)
 
 - [ ] Girls 4 Girls - Call for Applications. Click the link to register:
-(https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA).
+(https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA)
 
 - [ ] International Conference on Data Science and Information Systems, organized by IGAE, hosted in Kampala, Uganda on 29 January 2026.  Learn more:([https://igaeglobal.com/conf/index.php?id=100049422](https://researchleagues.com/event/index.php?id=100071993)](https://igaeglobal.com/conf/index.php?id=100049422)
       
@@ -129,6 +129,9 @@ Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 
 - [ ] Filecoin Orbit Kampala:Introducing Filecoin Onchain Cloud.  This will run from 10:00 AM (EAT).
 Learn more: (https://luma.com/jbo0dwas)
+
+- [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 pM (EAT).
+Learn more: (https://tinyurl.com/bwai-multi-agent-systems](https://tinyurl.com/bwai-ai-in-web3)
 
 
 
