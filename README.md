@@ -132,7 +132,7 @@ Learn more: (https://luma.com/jbo0dwas)
 
 - [ ] Build with AI: Crafting Multi-Agent Systems. Learn how AI is transforming the decentralised web and what opportunities it brings for developers and tech enthusiasts alike. This will run from 08:00 PM (EAT).
 Learn more: (https://tinyurl.com/bwai-ai-in-web3)
-
+![AI in Web 3](https://github.com/user-attachments/assets/cf33f65e-044b-4a47-8fbe-8a9f8697aeac)
 
 
 ## April
