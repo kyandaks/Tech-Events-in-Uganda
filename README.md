@@ -142,6 +142,9 @@ Learn more: ( https://bit.ly/IWDJinja2026-BreakThePattern )
 Learn more: ( javascriptkampala.org )
 ![JS MEETUP MARCH](https://github.com/user-attachments/assets/d1c990ea-cbe8-4140-96f2-778db9225cca)
 
+- [ ] The Robotics for Good Youth Challenge will be running from 10 to 14th  March 2026 at Mkaerere Univeirsty Innovation Pod.Learn more: ( bit.ly/roboticsmuk )
+![robotics for good ](https://github.com/user-attachments/assets/9ef1b54f-a5c6-47f5-94c8-9e7660de41c1)
+
 ## April
 
 
