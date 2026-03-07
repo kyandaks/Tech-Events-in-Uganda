@@ -138,6 +138,9 @@ Learn more: (https://tinyurl.com/bwai-ai-in-web3)
 Learn more: ( https://bit.ly/IWDJinja2026-BreakThePattern )
 ![IWD Jinja ](https://github.com/user-attachments/assets/8f0a080a-0727-4f0b-ac29-9eb692adc526)
 
+- [ ] JavaScript Kampala meetup. This will be about configuring CMS for the new webiste and the sesiion will be held online on Saturday 7th March,2026 at 2PM (EAT)
+Learn more: ( javascriptkampala.org )
+![JS MEETUP MARCH](https://github.com/user-attachments/assets/d1c990ea-cbe8-4140-96f2-778db9225cca)
 
 ## April
 
