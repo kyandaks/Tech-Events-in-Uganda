@@ -142,6 +142,10 @@ Learn more: ( https://bit.ly/IWDJinja2026-BreakThePattern )
 Learn more: ( javascriptkampala.org )
 ![JS MEETUP MARCH](https://github.com/user-attachments/assets/d1c990ea-cbe8-4140-96f2-778db9225cca)
 
+- [ ] Join us for a powerful session on how AI “employees” can transform your business operations, reduce revenue leakage, and eliminate operational inefficiencies. Learn why AI is not the starting point (diagnosis is), and how integrated AI systems outperform fragmented tools and manual teams. This will be held on Thursday 5th March 2026 from 03:30PM – 05:30PM (EAT)  
+Learn more: (https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmI2NTVlZGUtNzRkZS00N2NiLWEyZTctNDMzODdhMWU4OGVl%40thread.v2/0?context=%7b%22Tid%22%3a%2258355f0b-de23-4f07-95a2-9b02060b90b7%22%2c%22Oid%22%3a%228b8c19e4-fdfb-49e5-9bb7-b1d6e3794dfb%22 )
+![AI Employee-Driven Companies ](https://github.com/user-attachments/assets/6f88692a-0659-486b-a051-1c050185b655)
+
 - [ ] The Robotics for Good Youth Challenge will be running from 10 to 14th  March 2026 at Mkaerere Univeirsty Innovation Pod.Learn more: ( bit.ly/roboticsmuk )
 ![robotics for good ](https://github.com/user-attachments/assets/9ef1b54f-a5c6-47f5-94c8-9e7660de41c1)
 
