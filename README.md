@@ -148,7 +148,9 @@ Learn more: (https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmI2NTVlZGUt
 
 - [ ] The Robotics for Good Youth Challenge will be running from 10 to 14th  March 2026 at Mkaerere Univeirsty Innovation Pod.Learn more: ( bit.ly/roboticsmuk )
 ![robotics for good ](https://github.com/user-attachments/assets/9ef1b54f-a5c6-47f5-94c8-9e7660de41c1)
-
+ 
+- [ ] Build with AI: Protecting Sensitive Data in Gen AI Model Responses. LDiscover essential strategies for safeguarding sensitive information within AI model outputs. This will take place on Wednesday 11th March, 2026 at  08:00 PM (EAT).
+Learn more: ( https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-build-with-ai-protecting-sensitive-data-in-gen-ai-model-responses/)
 ## April
 
 
