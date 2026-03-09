@@ -164,7 +164,7 @@ Learn more: (https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmI2NTVlZGUt
 - [ ] The International Conference on Machine Learning and Big Data Applications for IT Growth, organized by Research Foundation, scheduled to take place on Monday 20th July 2026 in Kampala, Uganda. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
 
 ## July
-- [ ] The International Conference on Machine Learning and Big Data Applications for IT Growth, organized by Research Foundation, scheduled to take place on Monday 20th July 2026 in Kampala, Uganda. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
+- [ ] The Blockchain devfest will be happening on the 27th of June 2026 under the theme: Towards Responsible Decentralized AI. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
 
 ## August
 - [ ] The International Conference on Digital Transformation in Information Technology, organized by ISIT, will be held on Monday 10th August 2026 in Entebbe, Uganda. Learn more: (https://isit.org.in/event/index.php?id=100753003)
