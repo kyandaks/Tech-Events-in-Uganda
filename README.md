@@ -154,6 +154,7 @@ Learn more: ( https://gdg.community.dev/events/details/google-gdg-on-campus-make
 
 - [ ] The 2026 NSSF Career Expo is here, and this year, they are diving deep into one of the most transformative forces shaping global careers, Artificial Intelligence (AI). Under the theme “Man or Machine: Exploring AI’s Impact on Careers”, this expo goes beyond a typical fair to equip you with understanding, tools, and connections to thrive in the age of AI
 This will take place from Wednesday March 11th to April 15th , 2026. Learn more: ( https://www.nssfug.org/2026careerexpo/)
+![NSSF Career expo](https://github.com/user-attachments/assets/30ca4b2d-e7e0-4188-a086-36915be848df)
 
 
 ## April
