@@ -115,7 +115,7 @@ Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 Learn more: (https://luma.com/9764q8w9)
 ![WhatsApp Image 2026-02-04 at 10 40 59 PM](https://github.com/user-attachments/assets/4e591cc4-6358-4069-96ab-d303912e4fe8)
 
-- [ ] The PyKla Meetup this month willbe about Writing Effective Documentation for Python's DevGuide with Sphinx and reStructuredText. This will run from 02:00 pM (EAT).
+- [ ] The PyKla Meetup this month willbe about Writing Effective Documentation for Python's DevGuide with Sphinx and reStructuredText. This will be held on Saturday 28th March, 2026 from 02:00 PM (EAT).
 Learn more: ()
 <img width="1587" height="2245" alt="MARCH MEETUP" src="https://github.com/user-attachments/assets/aeef2ad8-1d7a-4726-a570-5bd9b93c1a6c" />
 
