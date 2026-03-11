@@ -164,7 +164,7 @@ Register here:( https://forms.gle/KZguVBv6MY5FtFDk7 )
 
 - [ ] The AI Innovation Demo Day 2026 will be about the future of Uganda’s AI entrepreneurship and the groundbreaking innovations emerging from the AI Innovation Academy. This event will be held on Friday 13th March 2026 at the School of Public Health Auditorium (Eastern Gate) within the Makerere University Main Campus, starting at 8:00 AM ( EAT) and running until 4:00 PM.
 Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
-
+![AI innovation academyjpeg](https://github.com/user-attachments/assets/93b8fbb4-2948-4817-be9c-0bfa6ea1a080)
 
 
 ## April
