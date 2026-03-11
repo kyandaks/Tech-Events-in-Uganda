@@ -123,7 +123,7 @@ Learn more: ()
 Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-build-with-ai-building-with-google-antigravity/)
 ![WhatsApp Image 2026-03-01 at 8 52 28 PM](https://github.com/user-attachments/assets/405b4770-a6cd-46a5-a336-aa738f0922cd)
 
-- [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 pM (EAT).
+- [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 PM (EAT).
 Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 ![BWAI](https://github.com/user-attachments/assets/8f2f5bc8-57d9-4487-b962-d9d4acc159a4)
 
@@ -150,7 +150,7 @@ Learn more: (https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmI2NTVlZGUt
 ![robotics for good ](https://github.com/user-attachments/assets/9ef1b54f-a5c6-47f5-94c8-9e7660de41c1)
  
 - [ ] Build with AI: Protecting Sensitive Data in Gen AI Model Responses. LDiscover essential strategies for safeguarding sensitive information within AI model outputs. This will take place on Wednesday 11th March, 2026 at  08:00 PM (EAT).
-Learn more: ( https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-build-with-ai-protecting-sensitive-data-in-gen-ai-model-responses/)
+Learn more: (  tinyurl.com/bwai-genai-sec )
 
 - [ ] The 2026 NSSF Career Expo is here, and this year, they are diving deep into one of the most transformative forces shaping global careers, Artificial Intelligence (AI). Under the theme “Man or Machine: Exploring AI’s Impact on Careers”, this expo goes beyond a typical fair to equip you with understanding, tools, and connections to thrive in the age of AI
 This will take place from Wednesday March 11th to April 15th , 2026. Learn more: ( https://www.nssfug.org/2026careerexpo/)
