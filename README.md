@@ -138,7 +138,7 @@ Learn more: ( https://bit.ly/IWDJinja2026-BreakThePattern )
 ![IWD Jinja ](https://github.com/user-attachments/assets/8f0a080a-0727-4f0b-ac29-9eb692adc526)
 
 - [ ] JavaScript Kampala meetup. This will be about configuring CMS for the new webiste and the sesiion will be held online on Saturday 7th March,2026 at 2PM (EAT)
-Learn more: ( javascriptkampala.org )
+Learn more: (https://youtube.com/live/UfvgmjBji4w?feature=share )
 ![JS MEETUP MARCH](https://github.com/user-attachments/assets/d1c990ea-cbe8-4140-96f2-778db9225cca)
 
 - [ ] Join us for a powerful session on how AI “employees” can transform your business operations, reduce revenue leakage, and eliminate operational inefficiencies. Learn why AI is not the starting point (diagnosis is), and how integrated AI systems outperform fragmented tools and manual teams. This will be held on Thursday 5th March 2026 from 03:30PM – 05:30PM (EAT)  
@@ -157,6 +157,12 @@ Learn more: (  tinyurl.com/bwai-genai-sec )
 This will take place from Wednesday March 11th to April 15th , 2026. Learn more: ( https://www.nssfug.org/2026careerexpo/)
 ![NSSF Career expo](https://github.com/user-attachments/assets/30ca4b2d-e7e0-4188-a086-36915be848df)
 
+- [ ] The PyLadies Kampala is on and and this time we're diving into the world of APIs and Integration.
+We are excited to have: Jonathan Ssali, Software Engineer, taking us through "APIs and Integration"
+
+And stick around after — our PyLadies coaches will be hosting a discussion on Google Summer of Code (GSoC). Perfect opportunity to learn how to get involved! This will be held at Africa's Talking - Acacia Avenue on Saturday 14th February 2026 at 09 AM EAT.
+Register here: https://tinyurl.com/pyladies-meetup
+![PYLADIES FEB](https://github.com/user-attachments/assets/c9422f35-1e7b-4f2f-8d11-0441f29d1dce)
 
 ## April
 
