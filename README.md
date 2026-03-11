@@ -126,7 +126,7 @@ Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-maker
 Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 ![BWAI](https://github.com/user-attachments/assets/8f2f5bc8-57d9-4487-b962-d9d4acc159a4)
 
-- [ ] Filecoin Orbit Kampala:Introducing Filecoin Onchain Cloud.  This will run from 10:00 AM (EAT).
+- [ ] Filecoin Orbit Kampala:Introducing Filecoin Onchain Cloud.  This will be hold on Saturday March 21 at  10:00 AM (EAT). It will be held at Africa's Talking
 Learn more: (https://luma.com/jbo0dwas)
 
 - [ ] Build with AI. Learn how AI is transforming the decentralised web and what opportunities it brings for developers and tech enthusiasts alike. This will run from 08:00 PM (EAT).
