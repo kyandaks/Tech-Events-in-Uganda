@@ -158,11 +158,8 @@ This will take place from Wednesday March 11th to April 15th , 2026. Learn more:
 ![NSSF Career expo](https://github.com/user-attachments/assets/30ca4b2d-e7e0-4188-a086-36915be848df)
 
 - [ ] The PyLadies Kampala is on and and this time we're diving into the world of APIs and Integration.
-We are excited to have: Jonathan Ssali, Software Engineer, taking us through "APIs and Integration"
-
-And stick around after — our PyLadies coaches will be hosting a discussion on Google Summer of Code (GSoC). Perfect opportunity to learn how to get involved! This will be held at Africa's Talking - Acacia Avenue on Saturday 14th February 2026 at 09 AM EAT.
-Register here: https://tinyurl.com/pyladies-meetup
-![PYLADIES FEB](https://github.com/user-attachments/assets/c9422f35-1e7b-4f2f-8d11-0441f29d1dce)
+We are excited to have: Jonathan Ssali, Software Engineer, taking us through "APIs and Integration" And stick around after — our PyLadies coaches will be hosting a discussion on Google Summer of Code (GSoC). Perfect opportunity to learn how to get involved! This will be held at Africa's Talking - Acacia Avenue on Saturday 14th March 2026 at 09:00 AM EAT.
+Register here:( https://forms.gle/KZguVBv6MY5FtFDk7 )
 
 ## April
 
