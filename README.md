@@ -111,7 +111,7 @@ Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 Learn more: (https://luma.com/9764q8w9)
 ![WhatsApp Image 2026-02-04 at 10 40 59 PM](https://github.com/user-attachments/assets/4e591cc4-6358-4069-96ab-d303912e4fe8)
 
-- [ ] The PyKla Meetup this month willbe about Writing Effective Documentation for Python's DevGuide with Sphinx and reStructuredText. This will be held on Saturday 28th March, 2026 from 02:00 PM (EAT).
+- [ ] The PyKla Meetup this month will be about Writing Effective Documentation for Python's DevGuide with Sphinx and reStructuredText. This will be held on Saturday 28th March, 2026 from 02:00 PM (EAT).
 Learn more: ()
 <img width="1200" height="675" alt="PYKLA MEETUP BANNER" src="https://github.com/user-attachments/assets/702b4949-ec7c-4b70-a3b9-1b7aa4ae9913" />
 
@@ -138,7 +138,7 @@ Learn more: ( https://bit.ly/IWDJinja2026-BreakThePattern )
 Learn more: (https://youtube.com/live/UfvgmjBji4w?feature=share )
 ![JS MEETUP MARCH](https://github.com/user-attachments/assets/d1c990ea-cbe8-4140-96f2-778db9225cca)
 
-- [ ] Join us for a powerful session on how AI “employees” can transform your business operations, reduce revenue leakage, and eliminate operational inefficiencies. Learn why AI is not the starting point (diagnosis is), and how integrated AI systems outperform fragmented tools and manual teams. This will be held on Thursday 5th March 2026 from 03:30PM – 05:30PM (EAT)  
+- [ ] Join us for a powerful session on how AI “employees” can transform your business operations, reduce revenue leakage, and eliminate operational inefficiencies. Learn why AI is not the starting point (diagnosis is), and how integrated AI systems outperform fragmented tools and manual teams. This will be held on Thursday 5th March 2026 from 03:30PM – 05:30PM (EAT)
 Learn more: (https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmI2NTVlZGUtNzRkZS00N2NiLWEyZTctNDMzODdhMWU4OGVl%40thread.v2/0?context=%7b%22Tid%22%3a%2258355f0b-de23-4f07-95a2-9b02060b90b7%22%2c%22Oid%22%3a%228b8c19e4-fdfb-49e5-9bb7-b1d6e3794dfb%22 )
 ![AI Employee-Driven Companies ](https://github.com/user-attachments/assets/6f88692a-0659-486b-a051-1c050185b655)
 
@@ -165,7 +165,8 @@ Learn more: ( https://docs.google.com/forms/d/e/1FAIpQLSdp8FQpJm2kmKKfeuh7ngw876
 
 - [ ] Notion 101: Getting Organized as a Student is a beginner-friendly, hands-on workshop designed for students who want to better organize their academics, tasks, and projects using Notion. During this session, participants will learn the fundamentals of Notion, pages, blocks, databases, and templates, and be guided step-by-step to build a simple student dashboard they can continue using after the event.
 No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop. This will be held at CoCIS Block A Level 4, Conference Room  Makerere University, on Friday 13th March, 2026 at 10 AM EAT. Learn more: ( https://luma.com/2zlz28vi )
-![NOTION 101](https://github.com/user-attachments/assets/377fbcb6-ea97-43bb-b914-5dcdceb65ec9)
+![NOTION 101](https://github.com/user-attachments/assets/3be7be5e-6029-4085-84f9-8eaca2664679)
+
 
 
 ## April
