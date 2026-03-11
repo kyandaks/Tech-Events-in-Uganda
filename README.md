@@ -75,9 +75,6 @@ Whether you are a React pro, a UI designer, or a newbie looking to make your fir
 
 - [ ] Building Clean, Reliable Code in the AI Era with Africa's Talking Open Community. AI is changing how we build software. Join us at Africa’s Talking Kampala for a deep dive into AI-assisted coding, clean architecture, and writing reliable code in the age of Cursor, Codex, and Claude. Featuring Ernest Okot, this session explores how developers stay relevant and build quality in the AI era. This will be held at Africa's Talking , Acacia Avenue, on Thursday 12th February 2026 at  5:30 PM EAT.
 
-- [ ] Notion 101: Getting Organized as a Student is a beginner-friendly, hands-on workshop designed for students who want to better organize their academics, tasks, and projects using Notion. During this session, participants will learn the fundamentals of Notion, pages, blocks, databases, and templates, and be guided step-by-step to build a simple student dashboard they can continue using after the event.
-No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop. This will be held at Makerere University, Conference Room, CoCIS Block A Level 4 on Friday 27th February 2026 at 10 AM EAT.
-
 - [ ] The PyLadies Kampala meetup is back in action. Kick off 2026 with us as we dive into "Python Web Fundamentals with Asio Brenda. This will be held at Africa's Talking - Acacia Avenue on Saturday 14th February 2026 at 09 AM EAT.
 Register here: https://tinyurl.com/pyladies-meetup
 ![PYLADIES FEB](https://github.com/user-attachments/assets/c9422f35-1e7b-4f2f-8d11-0441f29d1dce)
@@ -165,6 +162,10 @@ Register here:( https://forms.gle/KZguVBv6MY5FtFDk7 )
 - [ ] The AI Innovation Demo Day 2026 will be about the future of Uganda’s AI entrepreneurship and the groundbreaking innovations emerging from the AI Innovation Academy. This event will be held on Friday 13th March 2026 at the School of Public Health Auditorium (Eastern Gate) within the Makerere University Main Campus, starting at 8:00 AM ( EAT) and running until 4:00 PM.
 Learn more: ( https://docs.google.com/forms/d/e/1FAIpQLSdp8FQpJm2kmKKfeuh7ngw876qTlYgcMywBznxSLB8wW6A4Xg/viewform )
 ![AI innovation academyjpeg](https://github.com/user-attachments/assets/93b8fbb4-2948-4817-be9c-0bfa6ea1a080)
+
+- [ ] Notion 101: Getting Organized as a Student is a beginner-friendly, hands-on workshop designed for students who want to better organize their academics, tasks, and projects using Notion. During this session, participants will learn the fundamentals of Notion, pages, blocks, databases, and templates, and be guided step-by-step to build a simple student dashboard they can continue using after the event.
+No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop. This will be held at CoCIS Block A Level 4, Conference Room  Makerere University, on Friday 13th March, 2026 at 10 AM EAT. Learn more: ( https://luma.com/2zlz28vi )
+![NOTION 101](https://github.com/user-attachments/assets/377fbcb6-ea97-43bb-b914-5dcdceb65ec9)
 
 
 ## April
