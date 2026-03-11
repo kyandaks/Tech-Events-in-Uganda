@@ -160,13 +160,14 @@ This will take place from Wednesday March 11th to April 15th , 2026. Learn more:
 - [ ] The PyLadies Kampala is on and and this time we're diving into the world of APIs and Integration.
 We are excited to have: Jonathan Ssali, Software Engineer, taking us through "APIs and Integration" And stick around after — our PyLadies coaches will be hosting a discussion on Google Summer of Code (GSoC). Perfect opportunity to learn how to get involved! This will be held at Africa's Talking - Acacia Avenue on Saturday 14th March 2026 at 09:00 AM EAT.
 Register here:( https://forms.gle/KZguVBv6MY5FtFDk7 )
+![PYKLA  MARCH 2026](https://github.com/user-attachments/assets/4c6cb991-d816-466a-9c13-a5d1eb749794)
+
 
 ## April
 
 
 ## May
-- [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026.
-      Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
+- [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
 
 ## June
