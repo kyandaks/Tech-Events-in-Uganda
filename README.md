@@ -75,10 +75,8 @@ Whether you are a React pro, a UI designer, or a newbie looking to make your fir
 
 - [ ] Building Clean, Reliable Code in the AI Era with Africa's Talking Open Community. AI is changing how we build software. Join us at Africa’s Talking Kampala for a deep dive into AI-assisted coding, clean architecture, and writing reliable code in the age of Cursor, Codex, and Claude. Featuring Ernest Okot, this session explores how developers stay relevant and build quality in the AI era. This will be held at Africa's Talking , Acacia Avenue, on Thursday 12th February 2026 at  5:30 PM EAT.
 
-
 - [ ] Notion 101: Getting Organized as a Student is a beginner-friendly, hands-on workshop designed for students who want to better organize their academics, tasks, and projects using Notion. During this session, participants will learn the fundamentals of Notion, pages, blocks, databases, and templates, and be guided step-by-step to build a simple student dashboard they can continue using after the event.
 No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop. This will be held at Makerere University, Conference Room, CoCIS Block A Level 4 on Friday 27th February 2026 at 10 AM EAT.
-
 
 - [ ] The PyLadies Kampala meetup is back in action. Kick off 2026 with us as we dive into "Python Web Fundamentals with Asio Brenda. This will be held at Africa's Talking - Acacia Avenue on Saturday 14th February 2026 at 09 AM EAT.
 Register here: https://tinyurl.com/pyladies-meetup
@@ -108,6 +106,7 @@ hashtag#CyberSecurity hashtag#BugBounty hashtag#Webinar hashtag#InfoSec hashtag#
 - [ ] Word Camp Mukono will take place from Friday 13th March to Saturday 14th March, 2026 at Murs Country Resort, Kigunga
 Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 ![wordcamp mukono](https://github.com/user-attachments/assets/e9095134-a725-4ee5-99cc-60ae38641662)
+
 - [ ] GitHub Copilot Dev Days - UG Edition will take place on Saturday, 21st March 2026 in the Conference Room, Level 4, Block A — CoCIS, Makerere University, Uganda. This will run from 10:00 AM – 1:00 PM (EAT). Learn more: ( https://luma.com/9764q8w9)
 ![ugvibecoders](https://github.com/user-attachments/assets/f8b3a838-f9bd-4046-a9af-79d14a2d0541)
 
@@ -117,7 +116,7 @@ Learn more: (https://luma.com/9764q8w9)
 
 - [ ] The PyKla Meetup this month willbe about Writing Effective Documentation for Python's DevGuide with Sphinx and reStructuredText. This will be held on Saturday 28th March, 2026 from 02:00 PM (EAT).
 Learn more: ()
-
+<img width="1200" height="675" alt="PYKLA MEETUP BANNER" src="https://github.com/user-attachments/assets/702b4949-ec7c-4b70-a3b9-1b7aa4ae9913" />
 
 - [ ] Build with AI: Building with Google Antigravity. This will run from 08:00 PM (EAT).
 Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-build-with-ai-building-with-google-antigravity/)
