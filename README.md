@@ -212,6 +212,7 @@ This will be held at HELP International Vocational Computer Center, near Danida 
 
 - [ ] Join us for an exclusive pre-event workshop leading up to AIFest Uganda 2026! This is your chance to dive into the world of AI agents with our special workshop: Cursor x AIFest: Building AI Agents with Cursor. If you're a developer, hacker, or an AI enthusiast ready to explore the future of AI, you won’t want to miss this.
 This will be held at CoCIS Block A, Level 4 Conference Room,Makerere University, Uganda on Friday 10th April 2026 at 09:00 AM EAT. Register here:( https://luma.com/dbp3mbn6?tk=hs63C8 )
+![CURSOR AI](https://github.com/user-attachments/assets/6a9e5f7a-2a14-45f7-88e4-3e244b037641)
 
 
 
