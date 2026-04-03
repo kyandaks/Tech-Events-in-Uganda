@@ -194,9 +194,10 @@ In this tutorial, attendees shall learn the foundations of graph representation 
 
 
 ## April
- - [ ] JavaScript Kampala meetup - April Edition. It will be held on Saturday 4th April 2026 from 2-6pm (EAT) at Africa's Talking, Acacia Place.
-Learn more: ( https://ticketdaddy.io/ev/eventgF6aivg175 )
-![JS Kampala](https://github.com/user-attachments/assets/519954a7-9dcb-448d-b67e-f3c1ea1eba94)
+ - [ ] Join in this Good Friday as Kampala Devops Community hosts the brilliant Promise Edah Frank for her second session titled Using GitOps to Architect Reliable Continuous Deployment Pipelines. This session is designed to move you from basic CI/CD to a truly declarative, audit-ready deployment model.
+It will be held on Friday 3rd April 2026 from 10:00 AM (EAT) at Africa's Talking, Acacia Place. Register here: ( https://www.kampaladevops.org/events )
+![KLA DEVOPS APRIL MEETUP](https://github.com/user-attachments/assets/6785f961-997c-465c-85ff-6672b0ae1a4f)
+
 
 - [ ] The PyLadies Kampala is on and and this time we are  handling Logic & Data Processing. We will explore Database concepts, business rules and query logic, django ORM, CRUD operations, data validation and serialization. If you want to truly understand how your backend works, this session is for you.
 This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
