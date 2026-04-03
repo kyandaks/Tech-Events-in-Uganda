@@ -206,8 +206,9 @@ This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 202
 This will be held on Saturday, 25th April 2026 from 10:00 AM – 1:00 PM EAT at Uganda Matyrs University Auditorium, Mpigi  Learn more: (https://luma.com/5naggl7y) 
 ![GITHUB COPILOT DAYS MPIGI](https://github.com/user-attachments/assets/0e1f3c9a-22e8-4dbb-a18e-00bb82537a1b)
 
-
-
+- [ ] Build with AI Jinja 2026 hands-on workshop, an engaging and informative event where we will delve into the fascinating world of Google Cloud and Google's Artificial Intelligence (AI) models. This event is designed for Cloud practitioners, engineers, and all AI enthusiasts and curious minds like you, who are eager to enhance their knowledge and application of Google Cloud and other Google developer products. You'll have the chance to learn from industry experts, engage in hands-on workshops, and network with fellow innovators from our vibrant community.
+This will be held at HELP International Vocational Computer Center, near Danida Community center, Jinja, Uganda on Saturday 4th April 2026 at 09:00 AM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-build-with-ai-cloud-jinja-2026/ )
+![BWAI Jinja 26](https://github.com/user-attachments/assets/334d2c34-36fd-419d-bfc4-01ba3366366c)
 
 
 
