@@ -185,9 +185,17 @@ Learn more: ( https://ticketdaddy.io/ev/eventgF6aivg175 )
 ![JS Kampala](https://github.com/user-attachments/assets/519954a7-9dcb-448d-b67e-f3c1ea1eba94)
 
 - [ ] The PyLadies Kampala is on and and this time we are  handling Logic & Data Processing. We will explore Database concepts, business rules and query logic, django ORM, CRUD operations, data validation and serialization. If you want to truly understand how your backend works, this session is for you.
-This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT.
-Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
+This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
 ![PYLADIES](https://github.com/user-attachments/assets/106d987b-0b0b-493f-948f-c55591f903e8)
+
+ - [ ] We are excited to invite you to the GitHub Copilot Dev Day Mpigi, a hands-on event where you’ll learn how to use AI to code faster and smarter. Expect an Intro to GitHub Copilot & AI coding with Copilot, Hands-on coding session using Copilot,Talks from student developers,Fun Kahoot quiz with prizes,Giveaways (VS Code swag, GitHub & Copilot stickers),Possible access to Copilot Pro subscriptions.
+This will be held on Saturday, 25th April 2026 from 10:00 AM – 1:00 PM EAT at Uganda Matyrs University Auditorium, Mpigi  Learn more: (https://luma.com/5naggl7y) 
+![GITHUB COPILOT DAYS MPIGI](https://github.com/user-attachments/assets/0e1f3c9a-22e8-4dbb-a18e-00bb82537a1b)
+
+
+
+
+
 
 
 ## May
