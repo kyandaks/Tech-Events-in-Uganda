@@ -167,6 +167,11 @@ Learn more: ( https://docs.google.com/forms/d/e/1FAIpQLSdp8FQpJm2kmKKfeuh7ngw876
 No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop. This will be held at CoCIS Block A Level 4, Conference Room  Makerere University, on Friday 13th March, 2026 at 10 AM EAT. Learn more: ( https://luma.com/2zlz28vi )
 ![NOTION 101](https://github.com/user-attachments/assets/3be7be5e-6029-4085-84f9-8eaca2664679)
 
+- [ ] Future-Proofing Your Career in Tech Starts Today. Technology is evolving fast. AI, automation, and digital tools are reshaping the way we work. To stay relevant, we must keep learning and building skills that adapt to the future.
+Join the conversation and learn practical ways to stay ahead. This will be held Online on Saturday 21st March, 2026 at 08 AM EAT. Register here: ( https://bnionline.zoom.us/webinar/register/9017738192809/WN_SpLa4qAXSYKMivdQ_hegNA )
+![WISE](https://github.com/user-attachments/assets/7429460a-f005-4136-bd37-5f1fe42577a2)
+
+
 - [ ] Looking to streamline your sales processes and gain better visibility into your customer relationships? Join our Zoho CRM session and learn how to effectively manage leads, automate workflows, track deals, and drive business growth with Zoho CRM. This session is ideal for business owners, sales teams, marketing professionals, and anyone looking to enhance their CRM skills with practical, hands-on experience.We will begin by exploring why a CRM is essential for modern business operations and then move into a hands-on session to demonstrate how it works in practice and what it looks like in a real business environment. This will be held online on Tuesday 24th March 2026 at 12:30 PM EAT.
 Register here:( https://bit.ly/ZOHOCRM2026Webinar )
 ![ZOHO](https://github.com/user-attachments/assets/c4847b90-116d-43be-9f11-602b48d78784)
