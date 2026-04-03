@@ -174,6 +174,12 @@ No prior experience with Notion is required. Attendees are encouraged to come wi
 Learn more: ( https://ticketdaddy.io/ev/eventgF6aivg175 )
 ![JS Kampala](https://github.com/user-attachments/assets/519954a7-9dcb-448d-b67e-f3c1ea1eba94)
 
+- [ ] The PyLadies Kampala is on and and this time we are  handling Logic & Data Processing. We will explore Database concepts, business rules and query logic, django ORM, CRUD operations, data validation and serialization. If you want to truly understand how your backend works, this session is for you.
+This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT.
+Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
+![PYLADIES](https://github.com/user-attachments/assets/106d987b-0b0b-493f-948f-c55591f903e8)
+
+
 ## May
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
