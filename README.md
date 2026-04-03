@@ -210,6 +210,8 @@ This will be held on Saturday, 25th April 2026 from 10:00 AM – 1:00 PM EAT at 
 This will be held at HELP International Vocational Computer Center, near Danida Community center, Jinja, Uganda on Saturday 4th April 2026 at 09:00 AM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-build-with-ai-cloud-jinja-2026/ )
 ![BWAI Jinja 26](https://github.com/user-attachments/assets/334d2c34-36fd-419d-bfc4-01ba3366366c)
 
+- [ ] Join us for an exclusive pre-event workshop leading up to AIFest Uganda 2026! This is your chance to dive into the world of AI agents with our special workshop: Cursor x AIFest: Building AI Agents with Cursor. If you're a developer, hacker, or an AI enthusiast ready to explore the future of AI, you won’t want to miss this.
+This will be held at CoCIS Block A, Level 4 Conference Room,Makerere University, Uganda on Friday 10th April 2026 at 09:00 AM EAT. Register here:( https://luma.com/dbp3mbn6?tk=hs63C8 )
 
 
 
