@@ -170,7 +170,9 @@ No prior experience with Notion is required. Attendees are encouraged to come wi
 
 
 ## April
-
+ - [ ] JavaScript Kampala meetup - April Edition. It will be held on Saturday 4th April 2026 from 2-6pm (EAT) at Africa's Talking, Acacia Place.
+Learn more: ( https://ticketdaddy.io/ev/eventgF6aivg175 )
+![JS Kampala](https://github.com/user-attachments/assets/519954a7-9dcb-448d-b67e-f3c1ea1eba94)
 
 ## May
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
