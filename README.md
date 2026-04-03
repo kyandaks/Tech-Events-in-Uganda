@@ -167,6 +167,10 @@ Learn more: ( https://docs.google.com/forms/d/e/1FAIpQLSdp8FQpJm2kmKKfeuh7ngw876
 No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop. This will be held at CoCIS Block A Level 4, Conference Room  Makerere University, on Friday 13th March, 2026 at 10 AM EAT. Learn more: ( https://luma.com/2zlz28vi )
 ![NOTION 101](https://github.com/user-attachments/assets/3be7be5e-6029-4085-84f9-8eaca2664679)
 
+- [ ] Join us for an exciting GitHub Campus Experts x GDG Info Session.This session will introduce students to opportunities within the GitHub and GDG communities, including how to grow as a developer, collaborate on real-world projects, and access exclusive student resources. Our guest speaker, Kato Trevor, will share insights from his journey as a GitHub Campus Expert and guide you on how to leverage tech communities for career growth. This session will take place on Wednesday 25th March,2026 in the Main Computer Lab, Kabale University, Uganda. This will run from 10:00 AM – 1:00 PM (EAT). Learn more:(https://gdg.community.dev/events/details/google-gdg-on-campus-kabale-university-kabale-uganda-presents-github-campus-experts-x-gdg-info-session/)
+ ![GITHUb KABALE](https://github.com/user-attachments/assets/b2071a4b-3c47-4f9f-a847-c15cca99ea58)
+      
+
 - [ ] Systems Thinking and Data: GNNs and their applications. With multiple components and relations, financial data are often presented as graph data, since it could represent both the individual features and the complicated relations. Due to the complexity and volatility of the financial market, the graph constructed on the financial data is often heterogeneous or time-varying, which imposes challenges on modeling technology.
 GNN models are able to handle the complex graph structure and achieve great performance and thus could be used to solve financial tasks.
 
