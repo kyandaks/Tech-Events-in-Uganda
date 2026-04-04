@@ -204,8 +204,7 @@ This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 202
 ![PYLADIES](https://github.com/user-attachments/assets/106d987b-0b0b-493f-948f-c55591f903e8)
 
  - [ ] We are excited to invite you to the GitHub Copilot Dev Day Mpigi, a hands-on event where you’ll learn how to use AI to code faster and smarter. Expect an Intro to GitHub Copilot & AI coding with Copilot, Hands-on coding session using Copilot,Talks from student developers,Fun Kahoot quiz with prizes,Giveaways (VS Code swag, GitHub & Copilot stickers),Possible access to Copilot Pro subscriptions.
-This will be held on Saturday, 25th April 2026 from 10:00 AM – 1:00 PM EAT at Uganda Matyrs University Auditorium, Mpigi  Learn more: (https://luma.com/5naggl7y) 
-![GITHUB COPILOT DAYS MPIGI](https://github.com/user-attachments/assets/0e1f3c9a-22e8-4dbb-a18e-00bb82537a1b)
+This will be held on Saturday, 25th April 2026 from 10:00 AM – 1:00 PM EAT at  UICT Innovation Hub, Nakawa,Uganda.  Learn more: (https://luma.com/5naggl7y) 
 
 - [ ] Build with AI Jinja 2026 hands-on workshop, an engaging and informative event where we will delve into the fascinating world of Google Cloud and Google's Artificial Intelligence (AI) models. This event is designed for Cloud practitioners, engineers, and all AI enthusiasts and curious minds like you, who are eager to enhance their knowledge and application of Google Cloud and other Google developer products. You'll have the chance to learn from industry experts, engage in hands-on workshops, and network with fellow innovators from our vibrant community.
 This will be held at HELP International Vocational Computer Center, near Danida Community center, Jinja, Uganda on Saturday 4th April 2026 at 09:00 AM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-build-with-ai-cloud-jinja-2026/ )
