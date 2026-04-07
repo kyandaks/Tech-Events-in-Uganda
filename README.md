@@ -239,7 +239,6 @@ Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhx
 - [ ] The Blockchain Devfest Hackathon 2026.​ The future isn't just automated; it’s decentralized. As part of Blockchain DevFest 2026, we are calling all developers, data scientists, and blockchain enthusiasts to bridge the gap between AI and Web3. This will be held on Monday 29th June, 2026. Learn more: (https://luma.com/lurbu653 )
 
 
-
 - [ ] 
 ## July
 - [ ] The International Conference on Machine Learning and Big Data Applications for IT Growth, organized by Research Foundation, scheduled to take place on Monday 20th July 2026 in Kampala, Uganda. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
