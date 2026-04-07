@@ -198,6 +198,7 @@ In this tutorial, attendees shall learn the foundations of graph representation 
 It will be held on Friday 3rd April 2026 from 10:00 AM (EAT) at Africa's Talking, Acacia Place. Register here: ( https://www.kampaladevops.org/events )
 ![KLA DEVOPS APRIL MEETUP](https://github.com/user-attachments/assets/6785f961-997c-465c-85ff-6672b0ae1a4f)
 
+- [ ] TJoin GDG On Campus Kabale University for an exciting hands-on session on building chatbots using Dialogflow! What you will learn: Introduction to Dialogflow,Creating intents,Training chatbot responses,Integrating with web apps. Open to all students interested in AI and development. This will be held in the Main Computer Lab,Kabale University on Saturday 11th April 2026 at 02:00 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kabale-university-kabale-uganda-presents-building-chatbots-with-dialogflow/ )
 
 - [ ] The PyLadies Kampala is on and and this time we are  handling Logic & Data Processing. We will explore Database concepts, business rules and query logic, django ORM, CRUD operations, data validation and serialization. If you want to truly understand how your backend works, this session is for you.
 This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
