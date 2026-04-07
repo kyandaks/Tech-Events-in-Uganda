@@ -237,6 +237,7 @@ This will run from 1st June to 30th July 2026 at the National ICT Innovation Hub
 Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhxflkHLdt9ebiPjSbdmqLM_woURnA/viewform )
 
 - [ ] The Blockchain Devfest Hackathon 2026.​ The future isn't just automated; it’s decentralized. As part of Blockchain DevFest 2026, we are calling all developers, data scientists, and blockchain enthusiasts to bridge the gap between AI and Web3. This will be held on Monday 29th June, 2026. Learn more: (https://luma.com/lurbu653 )
+![fd92a707-7436-422d-a8e9-a10d3156c103](https://github.com/user-attachments/assets/6fc6ae47-3e5a-4490-8bb8-560ea070e808)
 
 
 - [ ] 
