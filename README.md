@@ -216,6 +216,8 @@ This will be held at HELP International Vocational Computer Center, near Danida 
 This will be held at CoCIS Block A, Level 4 Conference Room,Makerere University, Uganda on Friday 10th April 2026 at 09:00 AM EAT. Register here:( https://luma.com/dbp3mbn6?tk=hs63C8 )
 ![CURSOR AI](https://github.com/user-attachments/assets/6a9e5f7a-2a14-45f7-88e4-3e244b037641)
 
+- [ ] The BitDevs Kampala community  invites you to the 9th edition of our Socratic Seminar! Join us for an open, discussion-driven forum where Bitcoin enthusiasts, developers, and the curious come together to learn, question, and deeply explore the technical, philosophical, and economic dimensions of Bitcoin. Whether you’re building, researching, or simply eager to understand Bitcoin more deeply, this is a space for thoughtful dialogue and collaborative learning.
+This will be held at  Africa's Talking - Acacia Avenue  on Friday 24th April 2026 at 05:00 PM EAT. Register here:( https://clooza.com/events/BITDEVSKLA-APR )
 
 
 ## May
