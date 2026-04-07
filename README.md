@@ -218,6 +218,7 @@ This will be held at CoCIS Block A, Level 4 Conference Room,Makerere University,
 
 - [ ] The BitDevs Kampala community  invites you to the 9th edition of our Socratic Seminar! Join us for an open, discussion-driven forum where Bitcoin enthusiasts, developers, and the curious come together to learn, question, and deeply explore the technical, philosophical, and economic dimensions of Bitcoin. Whether you’re building, researching, or simply eager to understand Bitcoin more deeply, this is a space for thoughtful dialogue and collaborative learning.
 This will be held at  Africa's Talking - Acacia Avenue  on Friday 24th April 2026 at 05:00 PM EAT. Register here:( https://clooza.com/events/BITDEVSKLA-APR )
+![BITDEVS APRIL](https://github.com/user-attachments/assets/39e215b1-c585-4974-9de3-48b8bd5008a7)
 
 
 ## May
