@@ -215,8 +215,9 @@ This will be held at HELP International Vocational Computer Center, near Danida 
 ![BWAI Jinja 26](https://github.com/user-attachments/assets/334d2c34-36fd-419d-bfc4-01ba3366366c)
 
 - [ ] Join us for an exclusive pre-event workshop leading up to AIFest Uganda 2026! This is your chance to dive into the world of AI agents with our special workshop: Cursor x AIFest: Building AI Agents with Cursor. If you're a developer, hacker, or an AI enthusiast ready to explore the future of AI, you won’t want to miss this.
-This will be held at CoCIS Block A, Level 4 Conference Room,Makerere University, Uganda on Friday 10th April 2026 at 09:00 AM EAT. Register here:( https://luma.com/dbp3mbn6?tk=hs63C8 )
-![CURSOR AI](https://github.com/user-attachments/assets/6a9e5f7a-2a14-45f7-88e4-3e244b037641)
+This will be held at CoCIS Block A, Level 4 Conference Room,Makerere University, Uganda on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://luma.com/dbp3mbn6?tk=hs63C8 )
+![WhatsApp Image 2026-04-07 at 10 00 50 PM](https://github.com/user-attachments/assets/538972ab-4277-4b98-89da-61f4bee844b4)
+
 
 - [ ] The BitDevs Kampala community  invites you to the 9th edition of our Socratic Seminar! Join us for an open, discussion-driven forum where Bitcoin enthusiasts, developers, and the curious come together to learn, question, and deeply explore the technical, philosophical, and economic dimensions of Bitcoin. Whether you’re building, researching, or simply eager to understand Bitcoin more deeply, this is a space for thoughtful dialogue and collaborative learning.
 This will be held at  Africa's Talking - Acacia Avenue  on Friday 24th April 2026 at 05:00 PM EAT. Register here:( https://clooza.com/events/BITDEVSKLA-APR )
