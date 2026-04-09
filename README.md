@@ -203,6 +203,8 @@ It will be held on Friday 3rd April 2026 from 10:00 AM (EAT) at Africa's Talking
  - [ ] The University Robotics Training is for university students interested in World Robot Olympiad Uganda. It will be held on Wednesday 8th April 2026 from 09:00  AM (EAT) at Makerere University. Register here: ( https://form.jotform.com/260901139705050 )
 ![WRO](https://github.com/user-attachments/assets/b9c1817f-2771-4b88-b873-6250cea65f21)
 
+ - [ ] Join us for  a beginner-friendly session covering the basics of WordPress.Learn how to get started, navigate the dashboard, and build your first site. It will be held on Friday 10th April 2026 from 04:00 PM (EAT) at Mbarara University of  Science and Technology . Register here: ( https://forms.gle/kaZHLKkFDp7Hod9R7 )
+
 
 - [ ] Join GDG On Campus Kabale University for an exciting hands-on session on building chatbots using Dialogflow! What you will learn: Introduction to Dialogflow,Creating intents,Training chatbot responses,Integrating with web apps. Open to all students interested in AI and development. This will be held in the Main Computer Lab,Kabale University on Saturday 11th April 2026 at 02:00 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kabale-university-kabale-uganda-presents-building-chatbots-with-dialogflow/ )
 ![1775507501117](https://github.com/user-attachments/assets/f750a582-1631-40bb-b766-bc8ad564dec8)
