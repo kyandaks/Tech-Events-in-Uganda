@@ -204,6 +204,7 @@ It will be held on Friday 3rd April 2026 from 10:00 AM (EAT) at Africa's Talking
 ![WRO](https://github.com/user-attachments/assets/b9c1817f-2771-4b88-b873-6250cea65f21)
 
  - [ ] Join us for  a beginner-friendly session covering the basics of WordPress.Learn how to get started, navigate the dashboard, and build your first site. It will be held on Friday 10th April 2026 from 04:00 PM (EAT) at Mbarara University of  Science and Technology . Register here: ( https://forms.gle/kaZHLKkFDp7Hod9R7 )
+![WC MUCOSA](https://github.com/user-attachments/assets/7ea82361-02ca-4b4c-b9cc-efdfbe5c340c)
 
 
 - [ ] Join GDG On Campus Kabale University for an exciting hands-on session on building chatbots using Dialogflow! What you will learn: Introduction to Dialogflow,Creating intents,Training chatbot responses,Integrating with web apps. Open to all students interested in AI and development. This will be held in the Main Computer Lab,Kabale University on Saturday 11th April 2026 at 02:00 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kabale-university-kabale-uganda-presents-building-chatbots-with-dialogflow/ )
