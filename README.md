@@ -225,7 +225,8 @@ This will be held at  Africa's Talking - Acacia Avenue  on Friday 24th April 202
 
 ## May
 - [ ] GitHub Copilot Dev Day is a community developer event focused on helping students and developers learn GitHub, modern developer workflows, and how to use AI tools like GitHub Copilot to improve productivity and learning. This event will target university students, beginner developers, and tech community members in Uganda who want to learn version control, collaboration using GitHub, and how AI tools are changing software development. This will be held at Bugema University,Kampala Campus Kampala on Friday 1st  May 2026 at 10:00 AM EAT. Register here:( https://luma.com/x96a7tl2  )
-​
+​![GITHUB BUGEMA UNIjpeg](https://github.com/user-attachments/assets/ea4c700f-40ef-4f91-a1cd-a80ac0f57674)
+
 
 - [ ] AIFest 2.0 brings together students, developers, researchers, founders, and tech enthusiasts to explore Artificial Intelligence through hackathons, workshops, talks, demos, and networking. 𝗧𝗵𝗶𝘀 𝘆𝗲𝗮𝗿’𝘀 𝗲𝘃𝗲𝗻𝘁 𝘄𝗶𝗹𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲:  Intversity Hackathon Final Pitches,AI Agents & Dev Workshops,Notion AI Workshop,Cursor AI Workshop,Startup & Innovation Talks,Project Showcases,Networking with builders and innovators. Come learn, build, network, and be part of Uganda’s growing AI community.
 This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:(  https://tinyurl.com/aifest2026 )
