@@ -187,7 +187,6 @@ This session will take place on Thursday 26th March,2026 Online from 05:00 PM �
 
 - [ ] Systems Thinking and Data: GNNs and their applications. With multiple components and relations, financial data are often presented as graph data, since it could represent both the individual features and the complicated relations. Due to the complexity and volatility of the financial market, the graph constructed on the financial data is often heterogeneous or time-varying, which imposes challenges on modeling technology.
 GNN models are able to handle the complex graph structure and achieve great performance and thus could be used to solve financial tasks.
-
 In this tutorial, attendees shall learn the foundations of graph representation learning and their applications through use cases. This will be held at UNIPOD,  Makerere University, on Friday 27th March, 2026 at 5:30PM EAT. Learn more: (https://forms.gle/ewcqMW6pGR9qqzbR6 )
 ![pydata](https://github.com/user-attachments/assets/ea9a4970-9522-4958-98a7-b5e9c916bc59)
 
@@ -226,6 +225,7 @@ This will be held at  Africa's Talking - Acacia Avenue  on Friday 24th April 202
 
 ## May
 
+https://luma.com/x96a7tl2
 - [ ] AIFest 2.0 brings together students, developers, researchers, founders, and tech enthusiasts to explore Artificial Intelligence through hackathons, workshops, talks, demos, and networking. 𝗧𝗵𝗶𝘀 𝘆𝗲𝗮𝗿’𝘀 𝗲𝘃𝗲𝗻𝘁 𝘄𝗶𝗹𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲:  Intversity Hackathon Final Pitches,AI Agents & Dev Workshops,Notion AI Workshop,Cursor AI Workshop,Startup & Innovation Talks,Project Showcases,Networking with builders and innovators. Come learn, build, network, and be part of Uganda’s growing AI community.
 This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:(  https://tinyurl.com/aifest2026 )
 ![AIFEST MAY 2026](https://github.com/user-attachments/assets/d29ebabe-e2e7-41bd-bf2c-9f45c92be0a3)
