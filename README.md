@@ -232,6 +232,8 @@ This will be held at  Africa's Talking - Acacia Avenue  on Friday 24th April 202
 
 - [ ] Join for the International Women's Day 2026 celebration, themed 'Break the Pattern'. Co-hosted by the Women Techmakers Kampala, this event aims to celebrate the contributions of women in technology and promote conversations around gender equity. We will explore the challenges women face in tech industries and discuss strategies to break traditional patterns that limit progress. 
 This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-kampala-presents-international-womens-day-2026-break-the-pattern/ )
+![IWD Kampala](https://github.com/user-attachments/assets/ee9e8e03-aaeb-401f-a222-42a0833a284e)
+
 
 ## May
 - [ ] GitHub Copilot Dev Day is a community developer event focused on helping students and developers learn GitHub, modern developer workflows, and how to use AI tools like GitHub Copilot to improve productivity and learning. This event will target university students, beginner developers, and tech community members in Uganda who want to learn version control, collaboration using GitHub, and how AI tools are changing software development. This will be held at Bugema University,Kampala Campus Kampala on Friday 1st  May 2026 at 10:00 AM EAT. Register here:( https://luma.com/x96a7tl2  )
