@@ -190,8 +190,6 @@ GNN models are able to handle the complex graph structure and achieve great perf
 In this tutorial, attendees shall learn the foundations of graph representation learning and their applications through use cases. This will be held at UNIPOD,  Makerere University, on Friday 27th March, 2026 at 5:30PM EAT. Learn more: (https://forms.gle/ewcqMW6pGR9qqzbR6 )
 ![pydata](https://github.com/user-attachments/assets/ea9a4970-9522-4958-98a7-b5e9c916bc59)
 
-
-
 ## April
  - [ ] Join in this Good Friday as Kampala Devops Community hosts the brilliant Promise Edah Frank for her second session titled Using GitOps to Architect Reliable Continuous Deployment Pipelines. This session is designed to move you from basic CI/CD to a truly declarative, audit-ready deployment model.
 It will be held on Friday 3rd April 2026 from 10:00 AM (EAT) at Africa's Talking, Acacia Place. Register here: ( https://www.kampaladevops.org/events )
