@@ -204,9 +204,9 @@ This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 202
 ![PYLADIES](https://github.com/user-attachments/assets/106d987b-0b0b-493f-948f-c55591f903e8)
 
 - [ ]  Join us for the: Mastering Chainlink Runtime Environment (CRE. An in-depth meetup for developers, builders, and blockchain professionals featuring expert insights and practical knowledge on CRE by Kakooza Vian 
-This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
-![PYLADIES](https://github.com/user-attachments/assets/106d987b-0b0b-493f-948f-c55591f903e8)
-luma.com/mduwnx3x
+This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( luma.com/mduwnx3x )
+
+
 
 
  - [ ] We are excited to invite you to the GitHub Copilot Dev Day Mpigi, a hands-on event where you’ll learn how to use AI to code faster and smarter. Expect an Intro to GitHub Copilot & AI coding with Copilot, Hands-on coding session using Copilot,Talks from student developers,Fun Kahoot quiz with prizes,Giveaways (VS Code swag, GitHub & Copilot stickers),Possible access to Copilot Pro subscriptions.
