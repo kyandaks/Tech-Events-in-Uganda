@@ -192,12 +192,10 @@ It will be held on Friday 3rd April 2026 from 10:00 AM (EAT) at Africa's Talking
  - [ ] Join us for  a beginner-friendly session covering the basics of WordPress.Learn how to get started, navigate the dashboard, and build your first site. It will be held on Friday 10th April 2026 from 04:00 PM (EAT) at Mbarara University of  Science and Technology . Register here: ( https://forms.gle/kaZHLKkFDp7Hod9R7 )
 ![WC MUCOSA](https://github.com/user-attachments/assets/7ea82361-02ca-4b4c-b9cc-efdfbe5c340c)
 
-
 - [ ] Join GDG On Campus Kabale University for an exciting hands-on session on building chatbots using Dialogflow! What you will learn: Introduction to Dialogflow,Creating intents,Training chatbot responses,Integrating with web apps. Open to all students interested in AI and development. This will be held in the Main Computer Lab,Kabale University on Saturday 11th April 2026 at 02:00 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kabale-university-kabale-uganda-presents-building-chatbots-with-dialogflow/ )
 ![1775507501117](https://github.com/user-attachments/assets/f750a582-1631-40bb-b766-bc8ad564dec8)
 
 - [ ] Introduction to Stitch: Deploy with Google AI Studio. In this session, you’ll get a hands-on introduction to Stitch and learn how to deploy AI-powered applications using Google AI Studio. Whether you're just getting started with AI or already building, this session will walk you through practical workflows to take your ideas from development to deployment. This will be held in the Main Computer Lab,Kabale University on Wednesday 15th April 2026 at 06:00 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-introduction-to-stitch-deploy-with-google-ai-studio/ )
-
 
 - [ ] The PyLadies Kampala is on and and this time we are  handling Logic & Data Processing. We will explore Database concepts, business rules and query logic, django ORM, CRUD operations, data validation and serialization. If you want to truly understand how your backend works, this session is for you.
 This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
@@ -205,8 +203,7 @@ This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 202
 
 - [ ]  Join us for the: Mastering Chainlink Runtime Environment (CRE. An in-depth meetup for developers, builders, and blockchain professionals featuring expert insights and practical knowledge on CRE by Kakooza Vian 
 This will be held at Makerere University on Friday April 17th 2026 at 09:00 AM EAT. Register here:( luma.com/mduwnx3x )
-
-
+![CHAINLINK](https://github.com/user-attachments/assets/1c8c51aa-aebd-4f32-979a-caccfcf6dcb1)
 
  - [ ] We are excited to invite you to the GitHub Copilot Dev Day Mpigi, a hands-on event where you’ll learn how to use AI to code faster and smarter. Expect an Intro to GitHub Copilot & AI coding with Copilot, Hands-on coding session using Copilot,Talks from student developers,Fun Kahoot quiz with prizes,Giveaways (VS Code swag, GitHub & Copilot stickers),Possible access to Copilot Pro subscriptions.
 This will be held on Saturday, 25th April 2026 from 10:00 AM – 1:00 PM EAT at  UICT Innovation Hub, Nakawa,Uganda.  Learn more: (https://luma.com/5naggl7y)
