@@ -205,6 +205,13 @@ This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 202
 This will be held at Makerere University on Friday April 17th 2026 at 09:00 AM EAT. Register here:( luma.com/mduwnx3x )
 ![CHAINLINK](https://github.com/user-attachments/assets/1c8c51aa-aebd-4f32-979a-caccfcf6dcb1)
 
+- [ ] Join students, young professionals, and industry leaders for a high-impact engagement on Uganda’s energy future. Theme: Preparing the Next Generation of Engineers for Uganda’s Energy Value Chain.
+
+This will happen on 18th April 2026 at CEDAT, Makerere University from 9:00 AM – 4:00 PM
+
+ Register here: ( https://luma.com/nlnjgew3 )
+
+
  - [ ] We are excited to invite you to the GitHub Copilot Dev Day Mpigi, a hands-on event where you’ll learn how to use AI to code faster and smarter. Expect an Intro to GitHub Copilot & AI coding with Copilot, Hands-on coding session using Copilot,Talks from student developers,Fun Kahoot quiz with prizes,Giveaways (VS Code swag, GitHub & Copilot stickers),Possible access to Copilot Pro subscriptions.
 This will be held on Saturday, 25th April 2026 from 10:00 AM – 1:00 PM EAT at  UICT Innovation Hub, Nakawa,Uganda.  Learn more: (https://luma.com/5naggl7y)
 ![GITHUB MPIGI NEW VENUE](https://github.com/user-attachments/assets/69e9047a-5b18-4d0a-939d-9bfcb5e94b4e)
