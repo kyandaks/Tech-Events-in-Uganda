@@ -235,6 +235,8 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
 <img width="1080" height="1080" alt="wicys" src="https://github.com/user-attachments/assets/795c7e72-0126-4636-9eba-8546cba5dc37" />
 
 - [ ] We are proud to invite you to the National ICT Symposium for Persons with Disabilities (PWDs).This is a powerful platform dedicated to inclusion, innovation and transformation aimed at unlocking opportunities, amplifying voices and inspiring a new generation of change makers.This will be held on Thursday, 30th April 2026 at the  National ICT Hub Auditorium (UICT) from 08:00 AM. Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSceBYNIXALFhRvrTmjjbJuX_Fz-EbtTYmU2axyqrjoz1rHXbg/viewform )
+<img width="540" height="525" alt="WhatsApp Image 2026-04-16 at 12 38 39 PM" src="https://github.com/user-attachments/assets/a9c34366-ff63-4a8b-9621-19994af24697" />
+
 
 
 ## May
