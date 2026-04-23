@@ -172,7 +172,6 @@ Register here:( https://bit.ly/ZOHOCRM2026Webinar )
 This session will take place on Thursday 26th March,2026 Online from 05:00 PM – 7:00 PM (EAT). Learn more:( https://bit.ly/buildwithaiug )
 ![BUILDATHON](https://github.com/user-attachments/assets/d0ec9cae-4ecb-4c46-9673-7c54da45a82d)
 
-
 - [ ] Systems Thinking and Data: GNNs and their applications. With multiple components and relations, financial data are often presented as graph data, since it could represent both the individual features and the complicated relations. Due to the complexity and volatility of the financial market, the graph constructed on the financial data is often heterogeneous or time-varying, which imposes challenges on modeling technology.
 GNN models are able to handle the complex graph structure and achieve great performance and thus could be used to solve financial tasks.
 In this tutorial, attendees shall learn the foundations of graph representation learning and their applications through use cases. This will be held at UNIPOD,  Makerere University, on Friday 27th March, 2026 at 5:30PM EAT. Learn more: (https://forms.gle/ewcqMW6pGR9qqzbR6 )
@@ -208,11 +207,9 @@ This will be held at Makerere University on Friday April 17th 2026 at 09:00 AM E
 - [ ] Join students, young professionals, and industry leaders for a high-impact engagement on Uganda’s energy future. Theme: Preparing the Next Generation of Engineers for Uganda’s Energy Value Chain.
 This will happen on Saturday 18th April 2026 at CEDAT, Makerere University from 9:00 AM – 4:00 PM. Register here: ( https://luma.com/nlnjgew3 )
 
-
  - [ ] We are excited to invite you to the GitHub Copilot Dev Day Mpigi, a hands-on event where you’ll learn how to use AI to code faster and smarter. Expect an Intro to GitHub Copilot & AI coding with Copilot, Hands-on coding session using Copilot,Talks from student developers,Fun Kahoot quiz with prizes,Giveaways (VS Code swag, GitHub & Copilot stickers),Possible access to Copilot Pro subscriptions.
 This will be held on Saturday, 25th April 2026 from 10:00 AM – 1:00 PM EAT at  UICT Innovation Hub, Nakawa,Uganda.  Learn more: (https://luma.com/5naggl7y)
 ![GITHUB MPIGI NEW VENUE](https://github.com/user-attachments/assets/69e9047a-5b18-4d0a-939d-9bfcb5e94b4e)
-
 
 - [ ] Build with AI Jinja 2026 hands-on workshop, an engaging and informative event where we will delve into the fascinating world of Google Cloud and Google's Artificial Intelligence (AI) models. This event is designed for Cloud practitioners, engineers, and all AI enthusiasts and curious minds like you, who are eager to enhance their knowledge and application of Google Cloud and other Google developer products. You'll have the chance to learn from industry experts, engage in hands-on workshops, and network with fellow innovators from our vibrant community.
 This will be held at HELP International Vocational Computer Center, near Danida Community center, Jinja, Uganda on Saturday 4th April 2026 at 09:00 AM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-build-with-ai-cloud-jinja-2026/ )
