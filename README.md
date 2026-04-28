@@ -230,10 +230,9 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
 
 - [ ] Join WiCyS Uganda is hosting a must-attend webinar on API Security. Our guest speaker, Dan Barahona, will be breaking down why APIs are currently the top choice for cyber attackers and what we can do about it. Topic: Why APIs Are Every Attacker’s Favourite Target. This will be held at UNIPOD Hall, Makerere University, Sir Apollo Kagwa Road on  Tuesday 28th April 2026, at 10:00 AM EAT. Register here:( https://www.binance.events/event/8d4422d3-f98e-466f-876a-2ab7358656f0/summary )
 
-
 - [ ] Ready to dive into cryptocurrency but unsure where to begin? We’ve got you covered! Join us at the Binance Summit 2026 for a friendly, practical introduction to the fundamentals of crypto and blockchain technology—explained simply and clearly. This will be held Online on Thursday 23rd April, 2026 at 07:00 AM EAT at Makerere University . Register here:( https://forms.gle/nAhxLVDiPRio96347 )
 <img width="1080" height="1080" alt="wicys" src="https://github.com/user-attachments/assets/795c7e72-0126-4636-9eba-8546cba5dc37"
-
+<img width="1080" height="608" alt="WhatsApp Image 2026-04-22 at 11 19 53 AM" src="https://github.com/user-attachments/assets/e41684d7-0fa1-4926-82f4-954c20503033" />
   
 
 ## May
