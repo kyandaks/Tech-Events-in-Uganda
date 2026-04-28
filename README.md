@@ -159,7 +159,6 @@ No prior experience with Notion is required. Attendees are encouraged to come wi
 Join the conversation and learn practical ways to stay ahead. This will be held Online on Saturday 21st March, 2026 at 08 AM EAT. Register here: ( https://bnionline.zoom.us/webinar/register/9017738192809/WN_SpLa4qAXSYKMivdQ_hegNA )
 ![WISE](https://github.com/user-attachments/assets/7429460a-f005-4136-bd37-5f1fe42577a2)
 
-
 - [ ] Looking to streamline your sales processes and gain better visibility into your customer relationships? Join our Zoho CRM session and learn how to effectively manage leads, automate workflows, track deals, and drive business growth with Zoho CRM. This session is ideal for business owners, sales teams, marketing professionals, and anyone looking to enhance their CRM skills with practical, hands-on experience.We will begin by exploring why a CRM is essential for modern business operations and then move into a hands-on session to demonstrate how it works in practice and what it looks like in a real business environment. This will be held online on Tuesday 24th March 2026 at 12:30 PM EAT.
 Register here:( https://bit.ly/ZOHOCRM2026Webinar )
 ![ZOHO](https://github.com/user-attachments/assets/c4847b90-116d-43be-9f11-602b48d78784)
@@ -226,8 +225,8 @@ This will be held at  Africa's Talking - Acacia Avenue  on Friday 24th April 202
 This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-kampala-presents-international-womens-day-2026-break-the-pattern/ )
 ![IWD Kampala](https://github.com/user-attachments/assets/ee9e8e03-aaeb-401f-a222-42a0833a284e)
 
-- [ ] They go where no one is looking. Are you watching your APIs?This will be held on Thursday, 23rd April 2026 Online from 07:00 PM. Register here: ( https://forms.gle/nAhxLVDiPRio96347 )
-<img width="1080" height="1080" alt="WhatsApp Image 2026-04-22 at 8 37 52 AM" src="https://github.com/user-attachments/assets/cb548c55-43ea-427b-a7fa-f6dacb149e57" />
+- [ ] We’re excited to invite you to the Introduction to Logos Blockchain, a beginner-friendly session where you’ll learn what blockchain is and how the Logos ecosystem is shaping the future of decentralized technology.This will be held on Friday, 24th April 2026 from 10:00 AM. Register here: ( https://luma.com/fog812l6 )
+
 
 - [ ] Join WiCyS Uganda is hosting a must-attend webinar on API Security. Our guest speaker, Dan Barahona, will be breaking down why APIs are currently the top choice for cyber attackers and what we can do about it. Topic: Why APIs Are Every Attacker’s Favourite Target. This will be held Online on Thursday 23rd April, 2026 at 07:00 AM EAT. Register here:( https://forms.gle/nAhxLVDiPRio96347 )
 <img width="1080" height="1080" alt="wicys" src="https://github.com/user-attachments/assets/795c7e72-0126-4636-9eba-8546cba5dc37" 
