@@ -164,7 +164,6 @@ Join the conversation and learn practical ways to stay ahead. This will be held 
 Register here:( https://bit.ly/ZOHOCRM2026Webinar )
 ![ZOHO](https://github.com/user-attachments/assets/c4847b90-116d-43be-9f11-602b48d78784)
 
-
 - [ ] Join us for an exciting GitHub Campus Experts x GDG Info Session.This session will introduce students to opportunities within the GitHub and GDG communities, including how to grow as a developer, collaborate on real-world projects, and access exclusive student resources. Our guest speaker, Kato Trevor, will share insights from his journey as a GitHub Campus Expert and guide you on how to leverage tech communities for career growth. This session will take place on Wednesday 25th March,2026 in the Main Computer Lab, Kabale University, Uganda. This will run from 10:00 AM – 1:00 PM (EAT). Learn more:(https://gdg.community.dev/events/details/google-gdg-on-campus-kabale-university-kabale-uganda-presents-github-campus-experts-x-gdg-info-session/)
  ![GITHUb KABALE](https://github.com/user-attachments/assets/b2071a4b-3c47-4f9f-a847-c15cca99ea58)
 
@@ -244,6 +243,9 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
 - [ ] JavaScript Kampala at 5 years meetup. This will feature several speakers talking about different topics. It will be held on Saturday 2nd May,2026 at 2PM (EAT) at Africa's Talking.
 Learn more: 
 <img width="1080" height="1080" alt="WhatsApp Image 2026-04-27 at 9 04 06 PM" src="https://github.com/user-attachments/assets/466dc84d-fa51-4607-b5e5-e2a0df59be3d" />
+
+- [ ] Dive into the world of technology with our event "Tech Innovations Unleashed," where we partner with S-tartex Group and Lingobyte to explore cutting-edge advancements that are shaping the future. Join us for an enlightening session that focuses on:Efficient AI Utilization,Web Development & Design,and Robotics.
+This will be held at Post Graduate Block Kampala International University - Western Campus on Saturday 2nd  May 2026 at 02:30 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kampala-international-university-kampala-uganda-presents-tech-innovations-unleashed-a-collaboration-with-s-tartex-group-and-lingobyte/ )
 
 
 - [ ] AIFest 2.0 brings together students, developers, researchers, founders, and tech enthusiasts to explore Artificial Intelligence through hackathons, workshops, talks, demos, and networking. 𝗧𝗵𝗶𝘀 𝘆𝗲𝗮𝗿’𝘀 𝗲𝘃𝗲𝗻𝘁 𝘄𝗶𝗹𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲:  Intversity Hackathon Final Pitches,AI Agents & Dev Workshops,Notion AI Workshop,Cursor AI Workshop,Startup & Innovation Talks,Project Showcases,Networking with builders and innovators. Come learn, build, network, and be part of Uganda’s growing AI community.
