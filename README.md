@@ -255,6 +255,9 @@ This will be held at Post Graduate Block Kampala International University - West
 This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:(  https://tinyurl.com/aifest2026 )
 ![AIFEST MAY 2026](https://github.com/user-attachments/assets/d29ebabe-e2e7-41bd-bf2c-9f45c92be0a3)
 
+- [ ] Learn how GitHub Copilot can supercharge your coding with AI, Hands-on coding session with guidance from student experts,Networking with fellow developers & tech enthusiasts. Get insights on GitHub Student Programs & Campus Experts. This will be held on Friday, 8th May 2026 at 10:00AM at  Uganda Christian University, Mukono – Plot 67-173, Bishop Tucker Road.
+Learn more: ( https://luma.com/p5vis7zq )
+
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
       
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
