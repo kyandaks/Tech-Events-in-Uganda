@@ -219,7 +219,6 @@ This will be held at HELP International Vocational Computer Center, near Danida 
 This will be held at CoCIS Block A, Level 4 Conference Room,Makerere University, Uganda on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://luma.com/dbp3mbn6?tk=hs63C8 )
 ![WhatsApp Image 2026-04-07 at 10 00 50 PM](https://github.com/user-attachments/assets/538972ab-4277-4b98-89da-61f4bee844b4)
 
-
 - [ ] The BitDevs Kampala community  invites you to the 9th edition of our Socratic Seminar! Join us for an open, discussion-driven forum where Bitcoin enthusiasts, developers, and the curious come together to learn, question, and deeply explore the technical, philosophical, and economic dimensions of Bitcoin. Whether you’re building, researching, or simply eager to understand Bitcoin more deeply, this is a space for thoughtful dialogue and collaborative learning.
 This will be held at  Africa's Talking - Acacia Avenue  on Friday 24th April 2026 at 05:00 PM EAT. Register here:( https://clooza.com/events/BITDEVSKLA-APR )
 ![BITDEVS APRIL](https://github.com/user-attachments/assets/39e215b1-c585-4974-9de3-48b8bd5008a7)
@@ -244,6 +243,7 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
 
 - [ ] JavaScript Kampala at 5 years meetup. This will feature several speakers talking about different topics. It will be held on Saturday 2nd May,2026 at 2PM (EAT) at Africa's Talking.
 Learn more: 
+<img width="1080" height="1080" alt="WhatsApp Image 2026-04-27 at 9 04 06 PM" src="https://github.com/user-attachments/assets/466dc84d-fa51-4607-b5e5-e2a0df59be3d" />
 
 
 - [ ] AIFest 2.0 brings together students, developers, researchers, founders, and tech enthusiasts to explore Artificial Intelligence through hackathons, workshops, talks, demos, and networking. 𝗧𝗵𝗶𝘀 𝘆𝗲𝗮𝗿’𝘀 𝗲𝘃𝗲𝗻𝘁 𝘄𝗶𝗹𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲:  Intversity Hackathon Final Pitches,AI Agents & Dev Workshops,Notion AI Workshop,Cursor AI Workshop,Startup & Innovation Talks,Project Showcases,Networking with builders and innovators. Come learn, build, network, and be part of Uganda’s growing AI community.
