@@ -252,6 +252,8 @@ This will be held at Post Graduate Block Kampala International University - West
 
 - [ ] Learn how GitHub Copilot can supercharge your coding with AI, Hands-on coding session with guidance from student experts,Networking with fellow developers & tech enthusiasts. Get insights on GitHub Student Programs & Campus Experts. This will be held on Friday, 8th May 2026 at 10:00AM at  Uganda Christian University, Mukono – Plot 67-173, Bishop Tucker Road.
 Learn more: ( https://luma.com/p5vis7zq )
+<img width="1000" height="1000" alt="WhatsApp Image 2026-04-28 at 3 02 29 PM" src="https://github.com/user-attachments/assets/bae9d417-6c25-4ab2-b95c-1658dcbfdc8c" />
+
 
 - [ ] AIFest 2.0 brings together students, developers, researchers, founders, and tech enthusiasts to explore Artificial Intelligence through hackathons, workshops, talks, demos, and networking. 𝗧𝗵𝗶𝘀 𝘆𝗲𝗮𝗿’𝘀 𝗲𝘃𝗲𝗻𝘁 𝘄𝗶𝗹𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲:  Intversity Hackathon Final Pitches,AI Agents & Dev Workshops,Notion AI Workshop,Cursor AI Workshop,Startup & Innovation Talks,Project Showcases,Networking with builders and innovators. Come learn, build, network, and be part of Uganda’s growing AI community.
 This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:(  https://tinyurl.com/aifest2026 )
