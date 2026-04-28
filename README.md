@@ -244,6 +244,15 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
 Learn more: 
 <img width="1080" height="1080" alt="WhatsApp Image 2026-04-27 at 9 04 06 PM" src="https://github.com/user-attachments/assets/466dc84d-fa51-4607-b5e5-e2a0df59be3d" />
 
+- [ ] JavaScript Kampala at 5 years meetup. This will feature several speakers talking about different topics. It will be held on Saturday 2nd May,2026 at 2PM (EAT) at Africa's Talking.
+Learn more: 
+<img width="1080" height="1080" alt="WhatsApp Image 2026-04-27 at 9 04 06 PM" src="https://github.com/user-attachments/assets/466dc84d-fa51-4607-b5e5-e2a0df59be3d" />
+
+- [ ] Join us for a hands-on session where we’ll explore the AWS Management Console, understand the different AWS services and learn how to navigate the cloud like a developer. Whether you’re just getting started or looking to sharpen your skills, this session will give you practical insights into how AWS works in real-world scenarios.
+We’ll walk through: How to use the AWS Console effectively , An overview of key AWS tools and services,How to start building and deploying your first projects on AWS. This will be held at Makerere University Business School on Tuesday 5th May 2026 at 10:00 AM EAT. Register here:( https://meetu.ps/e/PZ8NS/1f463y/i ) 
+
+-   
+https://meetu.ps/e/PZ8NS/1f463y/i
 - [ ] Dive into the world of technology with our event "Tech Innovations Unleashed," where we partner with S-tartex Group and Lingobyte to explore cutting-edge advancements that are shaping the future. Join us for an enlightening session that focuses on:Efficient AI Utilization,Web Development & Design,and Robotics.
 This will be held at Post Graduate Block Kampala International University - Western Campus on Saturday 2nd  May 2026 at 02:30 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kampala-international-university-kampala-uganda-presents-tech-innovations-unleashed-a-collaboration-with-s-tartex-group-and-lingobyte/ )
 
