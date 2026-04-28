@@ -228,8 +228,13 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
 - [ ] We are excited to invite you to the Introduction to Logos Blockchain, a beginner-friendly session where you’ll learn what blockchain is and how the Logos ecosystem is shaping the future of decentralized technology.This will be held on Friday, 24th April 2026 from 10:00 AM. Register here: ( https://luma.com/fog812l6 )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-04-22 at 11 25 43 AM" src="https://github.com/user-attachments/assets/a316e35a-4f8e-4b23-874d-34492427a0c6" />
 
-- [ ] Join WiCyS Uganda is hosting a must-attend webinar on API Security. Our guest speaker, Dan Barahona, will be breaking down why APIs are currently the top choice for cyber attackers and what we can do about it. Topic: Why APIs Are Every Attacker’s Favourite Target. This will be held Online on Thursday 23rd April, 2026 at 07:00 AM EAT. Register here:( https://forms.gle/nAhxLVDiPRio96347 )
-<img width="1080" height="1080" alt="wicys" src="https://github.com/user-attachments/assets/795c7e72-0126-4636-9eba-8546cba5dc37" 
+- [ ] Join WiCyS Uganda is hosting a must-attend webinar on API Security. Our guest speaker, Dan Barahona, will be breaking down why APIs are currently the top choice for cyber attackers and what we can do about it. Topic: Why APIs Are Every Attacker’s Favourite Target. This will be held at UNIPOD Hall, Makerere University, Sir Apollo Kagwa Road on  Tuesday 28th April 2026, at 10:00 AM EAT. Register here:( https://www.binance.events/event/8d4422d3-f98e-466f-876a-2ab7358656f0/summary )
+
+
+- [ ] Ready to dive into cryptocurrency but unsure where to begin? We’ve got you covered! Join us at the Binance Summit 2026 for a friendly, practical introduction to the fundamentals of crypto and blockchain technology—explained simply and clearly. This will be held Online on Thursday 23rd April, 2026 at 07:00 AM EAT at Makerere University . Register here:( https://forms.gle/nAhxLVDiPRio96347 )
+<img width="1080" height="1080" alt="wicys" src="https://github.com/user-attachments/assets/795c7e72-0126-4636-9eba-8546cba5dc37"
+
+  
 
 ## May
 - [ ] GitHub Copilot Dev Day is a community developer event focused on helping students and developers learn GitHub, modern developer workflows, and how to use AI tools like GitHub Copilot to improve productivity and learning. This event will target university students, beginner developers, and tech community members in Uganda who want to learn version control, collaboration using GitHub, and how AI tools are changing software development. This will be held at Bugema University,Kampala Campus Kampala on Friday 1st  May 2026 at 10:00 AM EAT. Register here:( https://luma.com/x96a7tl2  )
