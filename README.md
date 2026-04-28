@@ -226,12 +226,8 @@ This will be held at  Africa's Talking - Acacia Avenue  on Friday 24th April 202
 This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-kampala-presents-international-womens-day-2026-break-the-pattern/ )
 ![IWD Kampala](https://github.com/user-attachments/assets/ee9e8e03-aaeb-401f-a222-42a0833a284e)
 
-- [ ] Join WiCyS Uganda is hosting a must-attend webinar on API Security. Our guest speaker, Dan Barahona, will be breaking down why APIs are currently the top choice for cyber attackers and what we can do about it. Topic: Why APIs Are Every Attacker’s Favourite Target. This will be held Online on Thursday 23rd April, 2026 at 07:00 AM EAT. Register here:( https://forms.gle/nAhxLVDiPRio96347 )
-<img width="1080" height="1080" alt="wicys" src="https://github.com/user-attachments/assets/795c7e72-0126-4636-9eba-8546cba5dc37" />]
-
 - [ ] They go where no one is looking. Are you watching your APIs?This will be held on Thursday, 23rd April 2026 Online from 07:00 PM. Register here: ( https://forms.gle/nAhxLVDiPRio96347 )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-04-22 at 8 37 52 AM" src="https://github.com/user-attachments/assets/cb548c55-43ea-427b-a7fa-f6dacb149e57" />
-
 
 - [ ] Join WiCyS Uganda is hosting a must-attend webinar on API Security. Our guest speaker, Dan Barahona, will be breaking down why APIs are currently the top choice for cyber attackers and what we can do about it. Topic: Why APIs Are Every Attacker’s Favourite Target. This will be held Online on Thursday 23rd April, 2026 at 07:00 AM EAT. Register here:( https://forms.gle/nAhxLVDiPRio96347 )
 <img width="1080" height="1080" alt="wicys" src="https://github.com/user-attachments/assets/795c7e72-0126-4636-9eba-8546cba5dc37" 
@@ -244,15 +240,10 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
 Learn more: 
 <img width="1080" height="1080" alt="WhatsApp Image 2026-04-27 at 9 04 06 PM" src="https://github.com/user-attachments/assets/466dc84d-fa51-4607-b5e5-e2a0df59be3d" />
 
-- [ ] JavaScript Kampala at 5 years meetup. This will feature several speakers talking about different topics. It will be held on Saturday 2nd May,2026 at 2PM (EAT) at Africa's Talking.
-Learn more: 
-<img width="1080" height="1080" alt="WhatsApp Image 2026-04-27 at 9 04 06 PM" src="https://github.com/user-attachments/assets/466dc84d-fa51-4607-b5e5-e2a0df59be3d" />
-
 - [ ] Join us for a hands-on session where we’ll explore the AWS Management Console, understand the different AWS services and learn how to navigate the cloud like a developer. Whether you’re just getting started or looking to sharpen your skills, this session will give you practical insights into how AWS works in real-world scenarios.
-We’ll walk through: How to use the AWS Console effectively , An overview of key AWS tools and services,How to start building and deploying your first projects on AWS. This will be held at Makerere University Business School on Tuesday 5th May 2026 at 10:00 AM EAT. Register here:( https://meetu.ps/e/PZ8NS/1f463y/i ) 
+We’ll walk through: How to use the AWS Console effectively , An overview of key AWS tools and services,How to start building and deploying your first projects on AWS. This will be held at Makerere University Business School on Tuesday 5th May 2026 at 10:00 AM EAT. Register here:( https://meetu.ps/e/PZ8NS/1f463y/i )
+<img width="906" height="492" alt="WhatsApp Image 2026-04-23 at 7 50 56 AM" src="https://github.com/user-attachments/assets/d1f183ea-97fe-44de-8010-e9f559d6e773" />
 
--   
-https://meetu.ps/e/PZ8NS/1f463y/i
 - [ ] Dive into the world of technology with our event "Tech Innovations Unleashed," where we partner with S-tartex Group and Lingobyte to explore cutting-edge advancements that are shaping the future. Join us for an enlightening session that focuses on:Efficient AI Utilization,Web Development & Design,and Robotics.
 This will be held at Post Graduate Block Kampala International University - Western Campus on Saturday 2nd  May 2026 at 02:30 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kampala-international-university-kampala-uganda-presents-tech-innovations-unleashed-a-collaboration-with-s-tartex-group-and-lingobyte/ )
 
