@@ -240,7 +240,7 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
 ​![GITHUB BUGEMA UNIjpeg](https://github.com/user-attachments/assets/ea4c700f-40ef-4f91-a1cd-a80ac0f57674)
 
 - [ ] JavaScript Kampala at 5 years meetup. This will feature several speakers talking about different topics. It will be held on Saturday 2nd May,2026 at 2PM (EAT) at Africa's Talking.
-Learn more: 
+Register here: https://ticketdaddy.io/ev/eventEjEwmbo0im
 <img width="1080" height="1080" alt="WhatsApp Image 2026-04-27 at 9 04 06 PM" src="https://github.com/user-attachments/assets/466dc84d-fa51-4607-b5e5-e2a0df59be3d" />
 
 - [ ] Join us for a hands-on session where we’ll explore the AWS Management Console, understand the different AWS services and learn how to navigate the cloud like a developer. Whether you’re just getting started or looking to sharpen your skills, this session will give you practical insights into how AWS works in real-world scenarios.
