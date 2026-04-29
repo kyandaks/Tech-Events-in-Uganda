@@ -150,8 +150,7 @@ Register here:( https://forms.gle/KZguVBv6MY5FtFDk7 )
 Learn more: ( https://docs.google.com/forms/d/e/1FAIpQLSdp8FQpJm2kmKKfeuh7ngw876qTlYgcMywBznxSLB8wW6A4Xg/viewform )
 ![AI innovation academyjpeg](https://github.com/user-attachments/assets/93b8fbb4-2948-4817-be9c-0bfa6ea1a080)
 
-- [ ] Notion 101: Getting Organized as a Student is a beginner-friendly, hands-on workshop designed for students who want to better organize their academics, tasks, and projects using Notion. During this session, participants will learn the fundamentals of Notion, pages, blocks, databases, and templates, and be guided step-by-step to build a simple student dashboard they can continue using after the event.
-No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop. This will be held at CoCIS Block A Level 4, Conference Room  Makerere University, on Friday 13th March, 2026 at 10 AM EAT. Learn more: ( https://luma.com/2zlz28vi )
+- [ ] Notion 101: Getting Organized as a Student is a beginner-friendly, hands-on workshop designed for students who want to better organize their academics, tasks, and projects using Notion. During this session, participants will learn the fundamentals of Notion, pages, blocks, databases, and templates, and be guided step-by-step to build a simple student dashboard they can continue using after the event.No prior experience with Notion is required. Attendees are encouraged to come with a laptop for the hands-on portion of the workshop. This will be held at CoCIS Block A Level 4, Conference Room  Makerere University, on Friday 13th March, 2026 at 10 AM EAT. Learn more: ( https://luma.com/2zlz28vi )
 ![NOTION 101](https://github.com/user-attachments/assets/3be7be5e-6029-4085-84f9-8eaca2664679)
 
 - [ ] Future-Proofing Your Career in Tech Starts Today. Technology is evolving fast. AI, automation, and digital tools are reshaping the way we work. To stay relevant, we must keep learning and building skills that adapt to the future.
@@ -233,7 +232,6 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
 <img width="1080" height="1080" alt="wicys" src="https://github.com/user-attachments/assets/795c7e72-0126-4636-9eba-8546cba5dc37"
 <img width="1080" height="608" alt="WhatsApp Image 2026-04-22 at 11 19 53 AM" src="https://github.com/user-attachments/assets/e41684d7-0fa1-4926-82f4-954c20503033" />
   
-
 ## May
 - [ ] GitHub Copilot Dev Day is a community developer event focused on helping students and developers learn GitHub, modern developer workflows, and how to use AI tools like GitHub Copilot to improve productivity and learning. This event will target university students, beginner developers, and tech community members in Uganda who want to learn version control, collaboration using GitHub, and how AI tools are changing software development. This will be held at Bugema University,Kampala Campus Kampala on Friday 1st  May 2026 at 10:00 AM EAT. Register here:( https://luma.com/x96a7tl2  )
 ​![GITHUB BUGEMA UNIjpeg](https://github.com/user-attachments/assets/ea4c700f-40ef-4f91-a1cd-a80ac0f57674)
@@ -253,11 +251,9 @@ This will be held at Post Graduate Block Kampala International University - West
 Learn more: ( https://luma.com/p5vis7zq )
 <img width="1000" height="1000" alt="WhatsApp Image 2026-04-28 at 3 02 29 PM" src="https://github.com/user-attachments/assets/bae9d417-6c25-4ab2-b95c-1658dcbfdc8c" />
 
-
 - [ ] AIFest 2.0 brings together students, developers, researchers, founders, and tech enthusiasts to explore Artificial Intelligence through hackathons, workshops, talks, demos, and networking. 𝗧𝗵𝗶𝘀 𝘆𝗲𝗮𝗿’𝘀 𝗲𝘃𝗲𝗻𝘁 𝘄𝗶𝗹𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲:  Intversity Hackathon Final Pitches,AI Agents & Dev Workshops,Notion AI Workshop,Cursor AI Workshop,Startup & Innovation Talks,Project Showcases,Networking with builders and innovators. Come learn, build, network, and be part of Uganda’s growing AI community.
 This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:(  https://tinyurl.com/aifest2026 )
 ![AIFEST MAY 2026](https://github.com/user-attachments/assets/d29ebabe-e2e7-41bd-bf2c-9f45c92be0a3)
-
 
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
       
@@ -265,7 +261,6 @@ This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:
       
 - [ ] The wait is over, WordCamp Kampala 2026 is officially here!This isn’t just another tech conference. It’s a shift in how we build, lead, and innovate within the WordPress ecosystem. This will happen on May 23rd & 24th, at ESAMI Bombo Road. Learn more: ( https://kampala.wordcamp.org/2026/)
 ![WC KAMPALA](https://github.com/user-attachments/assets/9fe0963f-4a37-47a5-8c51-c7a8bde89812)
-
 
 ## June
 
@@ -281,8 +276,6 @@ Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhx
 - [ ] The Blockchain Devfest Hackathon 2026.​ The future isn't just automated; it’s decentralized. As part of Blockchain DevFest 2026, we are calling all developers, data scientists, and blockchain enthusiasts to bridge the gap between AI and Web3. This will be held on Monday 29th June, 2026. Learn more: (https://luma.com/lurbu653 )
 ![fd92a707-7436-422d-a8e9-a10d3156c103](https://github.com/user-attachments/assets/6fc6ae47-3e5a-4490-8bb8-560ea070e808)
 
-
-- [ ] 
 ## July
 - [ ] The International Conference on Machine Learning and Big Data Applications for IT Growth, organized by Research Foundation, scheduled to take place on Monday 20th July 2026 in Kampala, Uganda. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
 
