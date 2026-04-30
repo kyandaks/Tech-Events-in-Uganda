@@ -263,7 +263,7 @@ This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:
      
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
       
-- [ ] The wait is over, WordCamp Kampala 2026 is officially here!This isn’t just another tech conference. It’s a shift in how we build, lead, and innovate within the WordPress ecosystem. This will happen on May 23rd & 24th, at ESAMI Bombo Road. Learn more: ( https://kampala.wordcamp.org/2026/)
+- [ ] The wait is over, WordCamp Kampala 2026 is officially here!This isn’t just another tech conference. It’s a shift in how we build, lead, and innovate within the WordPress ecosystem. This will happen on May 23rd & 24th, at ESAMI Bombo Road.Learn more: ( https://kampala.wordcamp.org/2026/)
 ![WC KAMPALA](https://github.com/user-attachments/assets/9fe0963f-4a37-47a5-8c51-c7a8bde89812)
 
 - [ ]  The Victoria University AI Launch is officially here. This isn’t just another training program. It’s a shift in how we learn, work, and innovate within the global digital economy. This will happen on May 25th 2026 at Victoria University.
