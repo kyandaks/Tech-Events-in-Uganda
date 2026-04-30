@@ -266,6 +266,10 @@ This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:
 - [ ] The wait is over, WordCamp Kampala 2026 is officially here!This isn’t just another tech conference. It’s a shift in how we build, lead, and innovate within the WordPress ecosystem. This will happen on May 23rd & 24th, at ESAMI Bombo Road. Learn more: ( https://kampala.wordcamp.org/2026/)
 ![WC KAMPALA](https://github.com/user-attachments/assets/9fe0963f-4a37-47a5-8c51-c7a8bde89812)
 
+- [ ]  The Victoria University AI Launch is officially here. This isn’t just another training program. It’s a shift in how we learn, work, and innovate within the global digital economy. This will happen on May 25th 2026 at Victoria University.
+<img width="862" height="876" alt="WhatsApp Image 2026-04-30 at 4 09 28 PM" src="https://github.com/user-attachments/assets/8a6ff2ad-86fc-4fe2-a4e0-b214043811bf" />
+
+
 ## June
 
 - [ ] International Conference on Cloud Computing and GIS Solutions, organized by IIRD, held in Kampala, Uganda on Tuesday 2nd June, 2026. Learn more: ([https://globalai.community/chapters/kampala/events/agentcon-kampala/](https://iirdglobal.com/events/index.php?id=100646401)
