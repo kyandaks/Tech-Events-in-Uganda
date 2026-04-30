@@ -233,6 +233,7 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
 <img width="1080" height="608" alt="WhatsApp Image 2026-04-22 at 11 19 53 AM" src="https://github.com/user-attachments/assets/e41684d7-0fa1-4926-82f4-954c20503033" />
   
 ## May
+
 - [ ] GitHub Copilot Dev Day is a community developer event focused on helping students and developers learn GitHub, modern developer workflows, and how to use AI tools like GitHub Copilot to improve productivity and learning. This event will target university students, beginner developers, and tech community members in Uganda who want to learn version control, collaboration using GitHub, and how AI tools are changing software development. This will be held at Bugema University,Kampala Campus Kampala on Friday 1st  May 2026 at 10:00 AM EAT. Register here:( https://luma.com/x96a7tl2  )
 ​![GITHUB BUGEMA UNIjpeg](https://github.com/user-attachments/assets/ea4c700f-40ef-4f91-a1cd-a80ac0f57674)
 
