@@ -174,6 +174,7 @@ In this tutorial, attendees shall learn the foundations of graph representation 
 ![pydata](https://github.com/user-attachments/assets/ea9a4970-9522-4958-98a7-b5e9c916bc59)
 
 ## April
+
  - [ ] Join in this Good Friday as Kampala Devops Community hosts the brilliant Promise Edah Frank for her second session titled Using GitOps to Architect Reliable Continuous Deployment Pipelines. This session is designed to move you from basic CI/CD to a truly declarative, audit-ready deployment model.
 It will be held on Friday 3rd April 2026 from 10:00 AM (EAT) at Africa's Talking, Acacia Place. Register here: ( https://www.kampaladevops.org/events )
 ![KLA DEVOPS APRIL MEETUP](https://github.com/user-attachments/assets/6785f961-997c-465c-85ff-6672b0ae1a4f)
