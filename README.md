@@ -246,7 +246,7 @@ Register here: ( https://ticketdaddy.io/ev/eventEjEwmbo0im )
 We’ll walk through: How to use the AWS Console effectively , An overview of key AWS tools and services,How to start building and deploying your first projects on AWS. This will be held at Makerere University Business School on Tuesday 5th May 2026 at 10:00 AM EAT. Register here:( https://meetu.ps/e/PZ8NS/1f463y/i )
 <img width="906" height="492" alt="WhatsApp Image 2026-04-23 at 7 50 56 AM" src="https://github.com/user-attachments/assets/d1f183ea-97fe-44de-8010-e9f559d6e773" />
 
-- [ ] Join us for an Introduction to Web3, Smart Contracts, and Chainlink. This will be a beginner-friendly session where we will Learn Web3 fundamentals, Understand smart contracts and Explore how Chainlink connects real-world data to blockchain. This will be held on Friday May 8, 2026 at Bugema University, Kampala. Register here : 
+- [ ] Join us for an Introduction to Web3, Smart Contracts, and Chainlink. This will be a beginner-friendly session where we will Learn Web3 fundamentals, Understand smart contracts and Explore how Chainlink connects real-world data to blockchain. This will be held on Friday May 8, 2026 at Bugema University,Kampala starting at 11:00AM EAT,. Register here: ( )
 
 
 📅 
