@@ -80,7 +80,7 @@ Register here: https://tinyurl.com/pyladies-meetup
 Register here: https://www.kampaladevops.org/events
 <img width="1080" height="1080" alt="KDC-Webinar-1-2026" src="https://github.com/user-attachments/assets/bb06d96f-be94-426c-8f9d-11adffba80c8" />
 
-- [ ] We’re excited to announce our upcoming webinar: “Inside the Mind of a Top Bug Bounty Hunter.” Join us for an exclusive session with Harrison Ogunye, CISA, an experienced cybersecurity researcher, as he shares insights into the world of bug bounties, vulnerability research, and what it takes to succeed in the field. This will be held on Wednesday  at 2:00 PM EAT | 12:00 PM CAT Online. 
+- [ ] We are excited to announce our upcoming webinar: “Inside the Mind of a Top Bug Bounty Hunter.” Join us for an exclusive session with Harrison Ogunye, CISA, an experienced cybersecurity researcher, as he shares insights into the world of bug bounties, vulnerability research, and what it takes to succeed in the field. This will be held on Wednesday  at 2:00 PM EAT | 12:00 PM CAT Online. 
 Register here: (https://lnkd.in/dYAW4-ci) 
 <img width="720" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b0a415a-040d-4989-8e62-61eeb9b0065b" />
 
