@@ -248,12 +248,6 @@ We’ll walk through: How to use the AWS Console effectively , An overview of ke
 
 - [ ] Join us for an Introduction to Web3, Smart Contracts, and Chainlink. This will be a beginner-friendly session where we will Learn Web3 fundamentals, Understand smart contracts and Explore how Chainlink connects real-world data to blockchain. This will be held on Friday May 8, 2026 at Bugema University,Kampala starting at 11:00AM EAT,. Register here: ( https://www.digitalsphereug.tech/events/university-session )
 
-
-🎟️ Registration now live on 
-
-💡 Open to students, developers & tech enthusiasts
-
-
 - [ ] Dive into the world of technology with our event "Tech Innovations Unleashed," where we partner with S-tartex Group and Lingobyte to explore cutting-edge advancements that are shaping the future. Join us for an enlightening session that focuses on:Efficient AI Utilization,Web Development & Design,and Robotics.
 This will be held at Post Graduate Block Kampala International University - Western Campus on Saturday 2nd  May 2026 at 02:30 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kampala-international-university-kampala-uganda-presents-tech-innovations-unleashed-a-collaboration-with-s-tartex-group-and-lingobyte/ )
 
