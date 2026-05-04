@@ -249,7 +249,6 @@ We’ll walk through: How to use the AWS Console effectively , An overview of ke
 - [ ] Join us for an Introduction to Web3, Smart Contracts, and Chainlink. This will be a beginner-friendly session where we will Learn Web3 fundamentals, Understand smart contracts and Explore how Chainlink connects real-world data to blockchain. This will be held on Friday May 8, 2026 at Bugema University,Kampala starting at 11:00AM EAT. Register here:( https://www.digitalsphereug.tech/events/university-session )
 <img width="800" height="800" alt="WhatsApp Image 2026-05-02 at 8 59 58 AM" src="https://github.com/user-attachments/assets/25d753bb-aa9e-4f26-b35f-5732a5b6465e" />
 
-
 - [ ] Dive into the world of technology with our event "Tech Innovations Unleashed," where we partner with S-tartex Group and Lingobyte to explore cutting-edge advancements that are shaping the future. Join us for an enlightening session that focuses on:Efficient AI Utilization,Web Development & Design,and Robotics.
 This will be held at Post Graduate Block Kampala International University - Western Campus on Saturday 2nd  May 2026 at 02:30 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kampala-international-university-kampala-uganda-presents-tech-innovations-unleashed-a-collaboration-with-s-tartex-group-and-lingobyte/ )
 
@@ -258,7 +257,7 @@ Learn more: ( https://luma.com/p5vis7zq )
 <img width="1000" height="1000" alt="WhatsApp Image 2026-04-28 at 3 02 29 PM" src="https://github.com/user-attachments/assets/bae9d417-6c25-4ab2-b95c-1658dcbfdc8c" />
 
 - [ ] AIFest 2.0 brings together students, developers, researchers, founders, and tech enthusiasts to explore Artificial Intelligence through hackathons, workshops, talks, demos, and networking. 𝗧𝗵𝗶𝘀 𝘆𝗲𝗮𝗿’𝘀 𝗲𝘃𝗲𝗻𝘁 𝘄𝗶𝗹𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲:  Intversity Hackathon Final Pitches,AI Agents & Dev Workshops,Notion AI Workshop,Cursor AI Workshop,Startup & Innovation Talks,Project Showcases,Networking with builders and innovators. Come learn, build, network, and be part of Uganda’s growing AI community.
-This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:(  https://tinyurl.com/aifest2026 )
+This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:( https://tinyurl.com/aifest2026 )
 ![AIFEST MAY 2026](https://github.com/user-attachments/assets/d29ebabe-e2e7-41bd-bf2c-9f45c92be0a3)
 
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
