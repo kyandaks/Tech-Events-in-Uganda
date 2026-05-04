@@ -260,9 +260,8 @@ Learn more: ( https://luma.com/p5vis7zq )
 This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:( https://tinyurl.com/aifest2026 )
 ![AIFEST MAY 2026](https://github.com/user-attachments/assets/d29ebabe-e2e7-41bd-bf2c-9f45c92be0a3)
 
-- [ ] Join us this saturday for PyLadies May meetup on Authentication & Security featuring Edna Nakajugo. The session will be focused on building secure Python web applications and strengthening your understanding of modern authentication and security practices
-What you’ll learn: User Authentication (Login, Signup, Logout),Authorization & Permissions,Password Hashing,Web Security Basics (CSRF, XSS, SQL Injection),Environment Variables & Secrets Management. This will be held on Saturday 9th May 2026  starting at 10:00 AM EAT at Africa's Talking, Acacia Avenue, Kampala. Register here: ( )
-https://forms.gle/c8tbie4xLGXVgmw78
+- [ ] Join us this saturday for a PyLadies May meetup on Authentication & Security featuring Edna Nakajugo. The session will be focused on building secure Python web applications and strengthening your understanding of modern authentication and security practices
+What you’ll learn: User Authentication (Login, Signup, Logout),Authorization & Permissions,Password Hashing,Web Security Basics (CSRF, XSS, SQL Injection),Environment Variables & Secrets Management. This will be held on Saturday 9th May 2026  starting at 10:00 AM EAT at Africa's Talking, Acacia Avenue, Kampala. Register here: ( https://forms.gle/c8tbie4xLGXVgmw78 )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-03 at 4 08 14 PM" src="https://github.com/user-attachments/assets/9084a0fa-890f-4ffc-838c-52d73fc835f2" />
 
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
