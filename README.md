@@ -258,7 +258,7 @@ Learn more: ( https://luma.com/p5vis7zq )
 <img width="1000" height="1000" alt="WhatsApp Image 2026-04-28 at 3 02 29 PM" src="https://github.com/user-attachments/assets/bae9d417-6c25-4ab2-b95c-1658dcbfdc8c" />
 
 - [ ] AIFest 2.0 brings together students, developers, researchers, founders, and tech enthusiasts to explore Artificial Intelligence through hackathons, workshops, talks, demos, and networking. 𝗧𝗵𝗶𝘀 𝘆𝗲𝗮𝗿’𝘀 𝗲𝘃𝗲𝗻𝘁 𝘄𝗶𝗹𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲:  Intversity Hackathon Final Pitches,AI Agents & Dev Workshops,Notion AI Workshop,Cursor AI Workshop,Startup & Innovation Talks,Project Showcases,Networking with builders and innovators. Come learn, build, network, and be part of Uganda’s growing AI community.
-This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:( https://tinyurl.com/aifest2026 )
+This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:(https://tinyurl.com/aifest2026 )
 ![AIFEST MAY 2026](https://github.com/user-attachments/assets/d29ebabe-e2e7-41bd-bf2c-9f45c92be0a3)
 
 - [ ] Join us this saturday for a PyLadies May meetup on Authentication & Security featuring Edna Nakajugo. The session will be focused on building secure Python web applications and strengthening your understanding of modern authentication and security practices
