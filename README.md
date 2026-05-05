@@ -185,7 +185,7 @@ It will be held on Friday 3rd April 2026 from 10:00 AM (EAT) at Africa's Talking
  - [ ] The University Robotics Training is for university students interested in World Robot Olympiad Uganda. It will be held on Wednesday 8th April 2026 from 09:00  AM (EAT) at Makerere University. Register here: ( https://form.jotform.com/260901139705050 )
 ![WRO](https://github.com/user-attachments/assets/b9c1817f-2771-4b88-b873-6250cea65f21)
 
- - [ ] Join us for  a beginner-friendly session covering the basics of WordPress.Learn how to get started, navigate the dashboard, and build your first site. It will be held on Friday 10th April 2026 from 04:00 PM (EAT) at Mbarara University of  Science and Technology . Register here: ( https://forms.gle/kaZHLKkFDp7Hod9R7 )
+ - [ ] Join us for a beginner-friendly session covering the basics of WordPress.Learn how to get started, navigate the dashboard, and build your first site. It will be held on Friday 10th April 2026 from 04:00 PM (EAT) at Mbarara University of  Science and Technology . Register here: ( https://forms.gle/kaZHLKkFDp7Hod9R7 )
 ![WC MUCOSA](https://github.com/user-attachments/assets/7ea82361-02ca-4b4c-b9cc-efdfbe5c340c)
 
 - [ ] Join GDG On Campus Kabale University for an exciting hands-on session on building chatbots using Dialogflow! What you will learn: Introduction to Dialogflow,Creating intents,Training chatbot responses,Integrating with web apps. Open to all students interested in AI and development. This will be held in the Main Computer Lab,Kabale University on Saturday 11th April 2026 at 02:00 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kabale-university-kabale-uganda-presents-building-chatbots-with-dialogflow/ )
@@ -197,7 +197,7 @@ It will be held on Friday 3rd April 2026 from 10:00 AM (EAT) at Africa's Talking
 This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
 ![PYLADIES](https://github.com/user-attachments/assets/106d987b-0b0b-493f-948f-c55591f903e8)
 
-- [ ]  Join us for the: Mastering Chainlink Runtime Environment (CRE. An in-depth meetup for developers, builders, and blockchain professionals featuring expert insights and practical knowledge on CRE by Kakooza Vian 
+- [ ] Join us for the: Mastering Chainlink Runtime Environment (CRE. An in-depth meetup for developers, builders, and blockchain professionals featuring expert insights and practical knowledge on CRE by Kakooza Vian 
 This will be held at Makerere University on Friday April 17th 2026 at 09:00 AM EAT. Register here:( luma.com/mduwnx3x )
 ![CHAINLINK](https://github.com/user-attachments/assets/1c8c51aa-aebd-4f32-979a-caccfcf6dcb1)
 
@@ -251,6 +251,8 @@ We’ll walk through: How to use the AWS Console effectively , An overview of ke
 
 - [ ] Dive into the world of technology with our event "Tech Innovations Unleashed," where we partner with S-tartex Group and Lingobyte to explore cutting-edge advancements that are shaping the future. Join us for an enlightening session that focuses on:Efficient AI Utilization,Web Development & Design,and Robotics.
 This will be held at Post Graduate Block Kampala International University - Western Campus on Saturday 2nd  May 2026 at 02:30 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-kampala-international-university-kampala-uganda-presents-tech-innovations-unleashed-a-collaboration-with-s-tartex-group-and-lingobyte/ )
+
+- [ ]  Register here: ( https://gdg.community.dev/e/mwtaty/)
 
 - [ ] Learn how GitHub Copilot can supercharge your coding with AI, Hands-on coding session with guidance from student experts,Networking with fellow developers & tech enthusiasts. Get insights on GitHub Student Programs & Campus Experts. This will be held on Friday, 8th May 2026 at 10:00AM at  Uganda Christian University, Mukono – Plot 67-173, Bishop Tucker Road.
 Learn more: ( https://luma.com/p5vis7zq )
