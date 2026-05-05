@@ -297,7 +297,7 @@ Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhx
 ## August
 - [ ] The International Conference on Digital Transformation in Information Technology, organized by ISIT, will be held on Monday 10th August 2026 in Entebbe, Uganda. Learn more: (https://isit.org.in/event/index.php?id=100753003)
       
-- [ ] Be part of history at the inaugural Kampala DevOps & Cloud Summit — the premier gathering for East Africa’s tech ecosystem. Join elite engineers, architects and industry leaders for a day dedicated to deep dives, high-level networking and the next wave of cloud innovation. More details will be announced. Learn more: 
+- [ ] Be part of history at the inaugural Kampala DevOps & Cloud Summit — the premier gathering for East Africa’s tech ecosystem. Join elite engineers, architects and industry leaders for a day dedicated to deep dives, high-level networking and the next wave of cloud innovation. More details will be announced. Learn more: ( https://summit.kampaladevops.org/ )
       
 - [ ] The International Conference on Machine Learning for Big Data-enabled IT Solutions, organized by AFTER,will be held from Tuesday 18th to Wednesday 19th August 2026, in Gulu, Uganda. Learn more: (https://after.org.in/event/index.php?id=100731995)
 
