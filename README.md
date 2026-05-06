@@ -259,7 +259,6 @@ Learn more: ( https://luma.com/p5vis7zq )
 <img width="1000" height="1000" alt="WhatsApp Image 2026-04-28 at 3 02 29 PM" src="https://github.com/user-attachments/assets/bae9d417-6c25-4ab2-b95c-1658dcbfdc8c" />
 
 - [ ] Join us for session  on unlocking innovation through AI, data science and zindi opportunities. Come explore, learn and grow. This will be held on  Friday 8th May 2026 starting at 02:00PM at Mbarara University of Science and Technology
-Learn more: ( https://luma.com/p5vis7zq )
 
 
 - [ ] AIFest 2.0 brings together students, developers, researchers, founders, and tech enthusiasts to explore Artificial Intelligence through hackathons, workshops, talks, demos, and networking. 𝗧𝗵𝗶𝘀 𝘆𝗲𝗮𝗿’𝘀 𝗲𝘃𝗲𝗻𝘁 𝘄𝗶𝗹𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲:  Intversity Hackathon Final Pitches,AI Agents & Dev Workshops,Notion AI Workshop,Cursor AI Workshop,Startup & Innovation Talks,Project Showcases,Networking with builders and innovators. Come learn, build, network, and be part of Uganda’s growing AI community.
