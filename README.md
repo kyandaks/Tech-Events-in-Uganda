@@ -270,7 +270,7 @@ What you’ll learn: User Authentication (Login, Signup, Logout),Authorization &
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-03 at 4 08 14 PM" src="https://github.com/user-attachments/assets/9084a0fa-890f-4ffc-838c-52d73fc835f2" />
 
 - [ ] Building AI agents? Come learn how to design powerful, reliable skills, from structuring prompts and tool definitions to connecting with real-world APIs like SMS, Voice & Payments.
-This will happen on Thursday 7th May, 2026 starting at 05:00PM  and it will be held at The Acacia Place, 4th Floor, John Babiha (Acacia) Ave, Kampala.https://community.africastalking.com/e/mvjbbk/
+This will happen on Thursday 7th May, 2026 starting at 05:00PM  and it will be held at The Acacia Place, 4th Floor, John Babiha (Acacia) Avenue, Kampala. Register here: https://community.africastalking.com/e/mvjbbk/
 
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
  <img width="1290" height="986" alt="WhatsApp Image 2026-04-24 at 1 33 21 PM" src="https://github.com/user-attachments/assets/f491f63d-9ceb-4e49-aa8b-9f89872380bb" />
