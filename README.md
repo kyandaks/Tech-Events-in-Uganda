@@ -261,7 +261,6 @@ Learn more: ( https://luma.com/p5vis7zq )
 - [ ] Join us for session  on unlocking innovation through AI, data science and zindi opportunities. Come explore, learn and grow. This will be held on  Friday 8th May 2026 starting at 02:00PM at Mbarara University of Science and Technology
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-05 at 3 29 57 PM" src="https://github.com/user-attachments/assets/f0627725-57c1-4451-824f-580c3819c725" />
 
-
 - [ ] AIFest 2.0 brings together students, developers, researchers, founders, and tech enthusiasts to explore Artificial Intelligence through hackathons, workshops, talks, demos, and networking. 𝗧𝗵𝗶𝘀 𝘆𝗲𝗮𝗿’𝘀 𝗲𝘃𝗲𝗻𝘁 𝘄𝗶𝗹𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲:  Intversity Hackathon Final Pitches,AI Agents & Dev Workshops,Notion AI Workshop,Cursor AI Workshop,Startup & Innovation Talks,Project Showcases,Networking with builders and innovators. Come learn, build, network, and be part of Uganda’s growing AI community.
 This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:00 PM EAT. Register here:(https://tinyurl.com/aifest2026 )
 ![AIFEST MAY 2026](https://github.com/user-attachments/assets/d29ebabe-e2e7-41bd-bf2c-9f45c92be0a3)
@@ -270,8 +269,12 @@ This will be held at the American Center Kampala on Saturday 9th May 2026 at 05:
 What you’ll learn: User Authentication (Login, Signup, Logout),Authorization & Permissions,Password Hashing,Web Security Basics (CSRF, XSS, SQL Injection),Environment Variables & Secrets Management. This will be held on Saturday 9th May 2026  starting at 10:00 AM EAT at Africa's Talking, Acacia Avenue, Kampala. Register here: ( https://forms.gle/c8tbie4xLGXVgmw78 )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-03 at 4 08 14 PM" src="https://github.com/user-attachments/assets/9084a0fa-890f-4ffc-838c-52d73fc835f2" />
 
+- [ ] Building AI agents? Come learn how to design powerful, reliable skills, from structuring prompts and tool definitions to connecting with real-world APIs like SMS, Voice & Payments.
+This will happen on Thursday 7th May, 2026 starting at 05:00PM  and it will be held at The Acacia Place, 4th Floor, John Babiha (Acacia) Ave, Kampala.https://community.africastalking.com/e/mvjbbk/
+
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
  <img width="1290" height="986" alt="WhatsApp Image 2026-04-24 at 1 33 21 PM" src="https://github.com/user-attachments/assets/f491f63d-9ceb-4e49-aa8b-9f89872380bb" />
+ 
      
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
       
