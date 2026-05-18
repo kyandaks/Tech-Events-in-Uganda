@@ -283,9 +283,8 @@ What you’ll learn: User Authentication (Login, Signup, Logout),Authorization &
 Learn more: ( www.vu.ac.ug )
 <img width="862" height="876" alt="WhatsApp Image 2026-04-30 at 4 09 28 PM" src="https://github.com/user-attachments/assets/8a6ff2ad-86fc-4fe2-a4e0-b214043811bf" />
 
-- [ ] Join us for our monthly Socratic seminar. This will be held at Africa's Talking Kampala on Friday 29th May 2026. Register now : (https://apste.net/conf/index.php?id=100633712)
+- [ ] Join us for our monthly Socratic seminar. This will be held at Africa's Talking Kampala on Friday 29th May 2026. Register now : ( https://clooza.com/events/BITDEVSKLA-MAY )
 
-🔗 Register: https://clooza.com/events/BITDEVSKLA-MAY
 
 
 
