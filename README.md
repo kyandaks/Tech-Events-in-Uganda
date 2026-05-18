@@ -277,6 +277,8 @@ What you’ll learn: User Authentication (Login, Signup, Logout),Authorization &
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
       
 - [ ] Ready to build the future? Join Build with AI Kampala 2026 - Pre-Event 1 this weekend! Learn to prototype and deploy AI apps using Google tech. This will be held on Saturday, 16th May, 2026 from 10:00AM online.  RSVP here: ( https://bit.ly/BwAI-Pre-Event-1 )
+<img width="1200" height="1280" alt="WhatsApp Image 2026-05-15 at 9 37 02 AM" src="https://github.com/user-attachments/assets/fc27968e-f20c-4e12-bc3e-4e88fd0f09af" />
+
 
 - [ ] The wait is over, WordCamp Kampala 2026 is officially here!This isn’t just another tech conference. It’s a shift in how we build, lead, and innovate within the WordPress ecosystem. This will happen on May 23rd & 24th, at ESAMI Bombo Road.Learn more: ( https://kampala.wordcamp.org/2026/)
 ![WC KAMPALA](https://github.com/user-attachments/assets/9fe0963f-4a37-47a5-8c51-c7a8bde89812)
