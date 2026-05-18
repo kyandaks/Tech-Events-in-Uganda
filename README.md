@@ -273,7 +273,6 @@ What you’ll learn: User Authentication (Login, Signup, Logout),Authorization &
 
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
  <img width="1290" height="986" alt="WhatsApp Image 2026-04-24 at 1 33 21 PM" src="https://github.com/user-attachments/assets/f491f63d-9ceb-4e49-aa8b-9f89872380bb" />
- 
      
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
       
@@ -283,6 +282,9 @@ What you’ll learn: User Authentication (Login, Signup, Logout),Authorization &
 - [ ]  The Victoria University AI Launch is officially here. This isn’t just another training program. It’s a shift in how we learn, work, and innovate within the global digital economy. This will happen on May 25th 2026 at Victoria University.
 Learn more: ( www.vu.ac.ug )
 <img width="862" height="876" alt="WhatsApp Image 2026-04-30 at 4 09 28 PM" src="https://github.com/user-attachments/assets/8a6ff2ad-86fc-4fe2-a4e0-b214043811bf" />
+
+- [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
+ 
 
 ## June
 
