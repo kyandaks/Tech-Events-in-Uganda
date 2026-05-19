@@ -176,7 +176,7 @@ In this tutorial, attendees shall learn the foundations of graph representation 
 ## April
 
  - [ ] Join in this Good Friday as Kampala Devops Community hosts the brilliant Promise Edah Frank for her second session titled Using GitOps to Architect Reliable Continuous Deployment Pipelines. This session is designed to move you from basic CI/CD to a truly declarative, audit-ready deployment model.
-It will be held on Friday 3rd April 2026 from 10:00 AM (EAT) at Africa's Talking, Acacia Place. Register here: ( https://www.kampaladevops.org/events )
+It will be held on Friday 3rd April 2026 from 10:00 AM (EAT). Register here: ( https://www.kampaladevops.org/events )
 ![KLA DEVOPS APRIL MEETUP](https://github.com/user-attachments/assets/6785f961-997c-465c-85ff-6672b0ae1a4f)
 
  - [ ] Join us for an exciting session designed to help you move beyond writing code locally and start building real-world, scalable applications. What you will learn: How to design and build APIs from scratch,Moving applications from local environments to the cloud,Best practices for scalability and deployment,Real-world developer workflows. It will be held on Thursday 9th April 2026 from 03:30 PM (EAT) Online. Register here: ( https://gdg.community.dev/e/mrd3zj/ )
@@ -234,6 +234,11 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
   
 ## May
 
+ - [ ] Kampala Devops Community is hosting a webinar focused on Implementing Security by Design Principles in Containerized Applications. In the world of fast-paced deployment, shipping containerized applications at speed is a superpower. But if security is just an afterthought tacked onto the end of your pipeline, you’re playing a risky game against evolving enterprise threats. It’s time to move past reactive patching and master the art of shifting left. Join in and learn how to build better secure architecture. Session will be on Saturday 23rd May 2026.
+Session to be conducted using Microsoft Teams webinar. Register here: ( https://www.kampaladevops.org/events )
+<img width="1080" height="1080" alt="KDC-Webinar-3-2026" src="https://github.com/user-attachments/assets/6a13bb2f-f74c-4fdc-b098-1d9d331cdb35" />
+
+
 - [ ] GitHub Copilot Dev Day is a community developer event focused on helping students and developers learn GitHub, modern developer workflows, and how to use AI tools like GitHub Copilot to improve productivity and learning. This event will target university students, beginner developers, and tech community members in Uganda who want to learn version control, collaboration using GitHub, and how AI tools are changing software development. This will be held at Bugema University,Kampala Campus Kampala on Friday 1st  May 2026 at 10:00 AM EAT. Register here:( https://luma.com/x96a7tl2  )
 ​![GITHUB BUGEMA UNIjpeg](https://github.com/user-attachments/assets/ea4c700f-40ef-4f91-a1cd-a80ac0f57674)
 
@@ -274,8 +279,6 @@ What you’ll learn: User Authentication (Login, Signup, Logout),Authorization &
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
  <img width="1290" height="986" alt="WhatsApp Image 2026-04-24 at 1 33 21 PM" src="https://github.com/user-attachments/assets/f491f63d-9ceb-4e49-aa8b-9f89872380bb" />
  <img width="1076" height="1080" alt="WhatsApp Image 2026-05-18 at 3 54 32 PM" src="https://github.com/user-attachments/assets/1bbe721e-b3ac-4f1e-970a-cc31efb18032" />
-
-- [ ] JavaScript Kampala is bringing you the ultimate Dev Quiz Night! Whether you're a seasoned senior dev, a framework fanatic, or just starting your coding journey, this is your chance to flex your knowledge, network with the community, and grab some bragging rights. This will be held on Friday, 26th June 2026 starting at 07:00 PM onwards. Secure your spotnow via:( https://ticketdaddy.io/ev/eventnsktewlXl9 ) <img width="1000" height="1200" alt="WhatsApp Image 2026-05-18 at 11 24 07 PM" src="https://github.com/user-attachments/assets/3af9cd29-f237-4d00-99bd-3071d5275af1" />
      
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
       
@@ -298,6 +301,8 @@ Learn more: ( www.vu.ac.ug )
 ## June
 
 - [ ] International Conference on Cloud Computing and GIS Solutions, organized by IIRD, held in Kampala, Uganda on Tuesday 2nd June, 2026. Learn more: ([https://globalai.community/chapters/kampala/events/agentcon-kampala/](https://iirdglobal.com/events/index.php?id=100646401)
+
+- [ ] JavaScript Kampala is bringing you the ultimate Dev Quiz Night! Whether you're a seasoned senior dev, a framework fanatic, or just starting your coding journey, this is your chance to flex your knowledge, network with the community, and grab some bragging rights. This will be held on Friday, 26th June 2026 starting at 07:00 PM onwards. Secure your spotnow via:( https://ticketdaddy.io/ev/eventnsktewlXl9 ) <img width="1000" height="1200" alt="WhatsApp Image 2026-05-18 at 11 24 07 PM" src="https://github.com/user-attachments/assets/3af9cd29-f237-4d00-99bd-3071d5275af1" />
       
 - [ ] The International Conference on Inclusive Finance and FinTech for Development, organized by ISIT, held on Saturday 27th to Sunday 28th June, 2026 in Gulu, Uganda. Learn more: ( https://isit.org.in/event/index.php?id=100652739)
       
